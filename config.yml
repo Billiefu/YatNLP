@@ -1,0 +1,76 @@
+# ==============================================================================
+# Global Settings
+# ==============================================================================
+seed: 42                                      # Random seed for reproducibility
+device: "cuda:1"                              # Computing device (e.g., "cpu", "cuda:0")
+save_dir: "checkpoints/stacked-lstm-100k"     # Directory to save model checkpoints
+log_dir: "logs/stacked-lstm-100k"             # Directory to save logs, plots, and results
+
+# ==============================================================================
+# Data Configuration
+# ==============================================================================
+data:
+  train_path: "./data/train_100k.jsonl"       # Path to training dataset
+  val_path: "./data/valid.jsonl"              # Path to validation dataset
+  test_path: "./data/test.jsonl"              # Path to test dataset
+
+  src_tokenizer: "jieba"                      # Tokenizer for source language (Chinese)
+  tgt_tokenizer: "nltk"                       # Tokenizer for target language (English)
+
+  src_vocab_size: 8000                        # Target vocabulary size (if using BPE/WordPiece)
+  tgt_vocab_size: 8000                        # Target vocabulary size (if using BPE/WordPiece)
+
+  pretrained_src_emb: "./data/sgns.baidu.bigram-char.300d.txt" # Path to Chinese word vectors
+  pretrained_tgt_emb: "./data/glove.6B.300d.txt"               # Path to English word vectors
+
+  batch_size: 32                              # Number of samples per batch
+  num_workers: 4                              # Number of subprocesses for data loading
+  min_freq: 3                                 # Minimum frequency for a token to be in vocab
+
+# ==============================================================================
+# Model Architecture
+# ==============================================================================
+model:
+  name: "stacked-lstm"                        # Model identifier (contains 'lstm' or 'transformer')
+  
+  # --- RNN Specific Settings ---
+  rnn_type: "stacked-lstm"                    # Type: 'bi-lstm' or 'stacked-lstm'
+  use_native: True                            # True: Use manual implementation; False: Use PyTorch nn.LSTM
+  attn_method: 'additive'                     # Attention alignment: 'dot', 'multiplicative', 'additive'
+
+  # --- Transformer Specific Settings ---
+  transformer_type: "optimal"                 # Type: 'standard' or 'optimal' (GQA/Sparse)
+  nhead: 4                                    # Number of attention heads
+  num_kv_heads: 2                             # Number of KV heads for Grouped Query Attention (GQA)
+  use_sparse: true                            # Enable Sparse Attention (Local Window)
+  
+  # --- Common Settings ---
+  emb_size: 300                               # Embedding dimension (should match pretrained vectors)
+  hidden_size: 512                            # Hidden state dimension
+  enc_layers: 2                               # Number of encoder layers
+  dec_layers: 2                               # Number of decoder layers
+  dropout: 0.5                                # Dropout probability
+
+# ==============================================================================
+# Training Hyperparameters
+# ==============================================================================
+train:
+  epochs: 50                                  # Total number of training epochs
+  clip: 1.0                                   # Gradient clipping threshold
+
+  optimizer: "adam"                           # Optimizer: 'adam' or 'adamw'
+  lr: 0.0005                                  # Learning rate
+  weight_decay: 1e-5                          # Weight decay (L2 regularization)
+
+  # --- Teacher Forcing Schedule (Linear Decay) ---
+  tf_ratio_start: 1.0                         # Initial teacher forcing ratio
+  tf_ratio_end: 0.2                           # Final teacher forcing ratio
+  tf_decay_epochs: 10                         # Number of epochs to decay from start to end ratio
+  
+  label_smoothing: 0.1                        # Label smoothing factor for CrossEntropyLoss
+
+  # --- Early Stopping Strategy ---
+  early_stopping:
+    patience: 6                               # Epochs to wait for improvement before stopping
+    metric: 'loss'                            # Metric to monitor: 'loss' or 'bleu'
+    mode: 'min'                               # Mode: 'min' for loss, 'max' for BLEU
