@@ -1,0 +1,1002 @@
+[
+  {
+    "src": "记录 指出   <unk> - 1   曾 询问 此次 活动 是否 违反 了 该 法案 。",
+    "ref": "records indicate that <unk> <unk> about whether the event might violate the provision .",
+    "hyp": "it was reported that the whether whether whether the whether the the"
+  },
+  {
+    "src": "该 指挥官 写道 “ 我们 问 的 一个 问题 是 这 是否 违反 了 《 <unk> 法案 》 ， 并 被 告知 没有 违反 。 ”",
+    "ref": "<unk> question we asked was if it was a violation of the <unk> act and were informed it was not , \" the commander wrote .",
+    "hyp": "the question asked that we asked a question question whether whether whether violate the <unk> , and , “no “no . ”"
+  },
+  {
+    "src": "“ 听 起来 你 被 锁住 了 啊 ， ” <unk> 回复 道 。",
+    "ref": "<unk> like you are locked , \" the deputy <unk> replied .",
+    "hyp": "you were <unk> , , ” <unk> to to . . ”"
+  },
+  {
+    "src": "白宫 将 此次 “ 美国 制造 ” 活动 定义 为 官方 活动 ， 因此 不 受 《 <unk> 法案 》 管辖 。",
+    "ref": "the <unk> in america \" event was designated an official event by the white house , and would not have been covered by the <unk> act .",
+    "hyp": "white white house the us the activities ” ” activities activities official official activities , thus not by the bill ."
+  },
+  {
+    "src": "但是 即使 是 官方 活动 也 带有 政治 色彩 。",
+    "ref": "but even official events have political <unk> .",
+    "hyp": "even if official activity is political politically politically politics ."
+  },
+  {
+    "src": "活动 中 ， 总统 推行 当时 参议院 的 议题 ： 医疗 改革 ， 并 大肆 吹捧 对 政府 法规 的 管控 。",
+    "ref": "at the event , the president made a push for healthcare reform efforts then underway in the senate and touted efforts to rein in government regulations .",
+    "hyp": "in the , the president has taken the the the senate : : health-care reform , and and and the control of government regulations government government regulations . government regulations ."
+  },
+  {
+    "src": "将 海军陆战队 <unk> 或 <unk> 飞机 用于 政治宣传 目的 已经 不是 什么 新鲜事 。",
+    "ref": "using the aircraft known as marine one or air force one for politically advantageous purposes is hardly a new phenomenon .",
+    "hyp": "the <unk> of <unk> or <unk> or <unk> or <unk> <unk> purposes is not matter ."
+  },
+  {
+    "src": "历届 总统 都 被 要求 出行 需 乘坐 这些 飞机 。",
+    "ref": "presidents are required to use them for travel .",
+    "hyp": "the presidents presidents asked asked need to take these aircraft . ."
+  },
+  {
+    "src": "但是 仅为 拍照 目的 将 其 征用 并 不 常见 。",
+    "ref": "but <unk> their use solely for a <unk> is unusual .",
+    "hyp": "but it will not be its it is not"
+  },
+  {
+    "src": "<unk> 特朗普 就 受到 关注 ， 当时 是 在 佛罗里达州 墨尔本 ， 总统 专机 慢慢 <unk> ， 最终 <unk> 了 他 第一次 竞选 集会 的 背景 <unk> ， 而 他 的 推特 账户 充斥 着 对 前任 总统 使用 总统 专机 的 抱怨 信息 。",
+    "ref": "trump drew scrutiny in february when the presidential airplane <unk> to the backdrop of his first campaign rally in melbourne , <unk> . , and his twitter account is flush with messages complaining about his <unk> use of the presidential aircraft .",
+    "hyp": "trump trump was on on , , when he was at the evening , when he entered the <unk> , <unk> , the first the first his first first campaign , his his close to the the president president president president president president president president president . president president president"
+  },
+  {
+    "src": "白宫 副 新闻 发言人 林赛 · <unk> 称 “ 白宫 因此 次 ‘ 美国 制造 ’ 展览 而 <unk> ， 此次 展览 展示 了 来自 全部   50   个州 的 产品 ， 这些 产品 均 由 美国 工人 使用 美国 材料 制造 。 ”",
+    "ref": "\"the white house is <unk> with the <unk> in america ' showcase that featured products from all 50 states that are made by american workers with american materials , \" said white house deputy press secretary <unk> <unk> .",
+    "hyp": "the white house house white house white house house white house house white house house white house , <unk> <unk> <unk> <unk> <unk> the <unk> of the , , the the from the all of the the the the american american american american american american . ."
+  },
+  {
+    "src": "<unk> - 1   <unk> 经常 在 华盛顿 地区 附近 和 南 <unk> 进行 飞行 训练 ， 练习 将 美国 总统 准确 安置 在 白宫 。",
+    "ref": "<unk> crews frequently perform training flights around the washington area and at the south <unk> to practice <unk> the president of the united states at the white house with inches of precision .",
+    "hyp": "<unk> <unk> <unk> <unk> in the in washington , in washington , dc , and <unk> , , us president us president to white white white white white white white white white white white white white white white white house white white house white white house ."
+  },
+  {
+    "src": "7   月初 特朗普 在 德国 参加   G - 20   峰会 期间 ， <unk> - 1   在 白宫 练习 了   58   次 着陆 。",
+    "ref": "when trump was at the g-20 summit in germany in early july , <unk> conducted 58 practice <unk> at the white house .",
+    "hyp": "at july trump ’s meeting in trump in germany in germany in germany in the , white house white white house white white house . white house ."
+  },
+  {
+    "src": "一位 官员 称 ， 此次 美国 制造 活动 飞行 计入 本月 <unk> 训练 要求 中 。",
+    "ref": "the flight for the made in america event counted toward the <unk> training requirement for the month , an official said .",
+    "hyp": "one officials that that the us manufacturing activity in this month month training training training training earlier this month ."
+  },
+  {
+    "src": "直升机 部队 当天 也 额外 飞行 了   11   个 小时 的 “ 非 总统 支援 任务 ” 。",
+    "ref": "unit helicopters also flew an additional 11 hours that day for <unk> <unk> support missions . \"",
+    "hyp": "the bill day , another day , 11 11 <unk> ” <unk> ” ”"
+  },
+  {
+    "src": "白宫 方面 称 纳税人 并 没有 承担 此次 活动 中 任何 其他 <unk> 的 费用 。",
+    "ref": "the white house said taxpayers did not pick up the burden for any of the other <unk> featured at the event .",
+    "hyp": "white house white house taxpayers that the taxpayers not pay any other any other any other . . ."
+  },
+  {
+    "src": "<unk>   发言人 <unk> 公司 并未 参与 安排 南 <unk> 直升机 展示 。",
+    "ref": "a spokesperson for <unk> said the company was not involved in <unk> for the helicopter to be displayed on the south <unk> .",
+    "hyp": "the <unk> <unk> , not not involved in the <unk> ."
+  },
+  {
+    "src": "<unk> - 1   并 没有 保留 总统 飞行 的 预算 记录 ， 因此 要 确定 此次 活动 产生 的 准确 费用 非常 困难 。",
+    "ref": "<unk> <unk> maintain budgetary records for presidential flights , and determining the precise cost incurred by the event is difficult .",
+    "hyp": "<unk> does not have the to the budget budget to the the , , it is difficult to to the the the the ."
+  },
+  {
+    "src": "但是 根据 国防部   2017   <unk> 的 小时 费用 记载 ， <unk> - 3D   的 国防部 可 报销 费用 为 每 飞行 小时   24 , 380   美元 。",
+    "ref": "but according to department of defense hourly rates for fiscal year 2017 , the <unk> <unk> rate for the <unk> is $24 <unk> per flight hour .",
+    "hyp": "but , according to defense defense in defense , defense , defense defense cost cost of <unk> spent per hour per"
+  },
+  {
+    "src": "部队 记录 记录 了 飞机 每次 从 弗吉尼亚州 <unk> <unk> 海军陆战队 机场 的 基地 飞行 的 时间 为   30   分钟 。",
+    "ref": "unit records record the aircraft flight time as 30 minutes each way from its home base at marine corps air facility <unk> in virginia .",
+    "hyp": "the record record record , the 30 ,000 warheads on the 11 to soldiers from the <unk> from the ."
+  },
+  {
+    "src": "白宫 方面 称 操作 该 直升机 的 成本 远 低于 该 费用 。",
+    "ref": "the white house argues the true cost of operating the helicopter is well below that rate .",
+    "hyp": "the white house the the cost of costs cost costs below below below cost cost cost . cost ."
+  },
+  {
+    "src": "<unk> 称 “ 基于 可 报销 <unk> 估计 纳税人 <unk> 的 费用 非常 有 误导性 。",
+    "ref": "<unk> place a cost to taxpayers based on the <unk> rate estimates is highly misleading , \" <unk> said .",
+    "hyp": "the <unk> <unk> that that based on a <unk> of the taxpayers taxpayers ."
+  },
+  {
+    "src": "这些 估计 的 费用 包括 人员 费用 、 <unk> 和 其他 很多 包括 在 年度 拨款 中 的 沉没 成本 。",
+    "ref": "<unk> rate estimates include personnel , maintenance and many other sunk costs that are included in annual <unk> . \"",
+    "hyp": "these estimates cost cost , costs , costs , and other other costs , including the cost of annual annual annual annual . ."
+  },
+  {
+    "src": "一份   2015   年 的   <unk>   研究 显示 ， 国防部 可 报销 费用 并 不 包括 人员 费用 ， 但 确实 包括 <unk> 、 <unk> 和 <unk> 成本 。",
+    "ref": "according to a 2015 rand study , <unk> <unk> rates do not include the cost of personnel , but do account for fuel , maintenance , and contracting costs .",
+    "hyp": "a 2015 study study 2015 2015 that the defense cost of not not not not cost , but , but but , <unk> , <unk> , and <unk> costs ."
+  },
+  {
+    "src": "当时 ， 前 白宫 新闻 发言人 <unk> · <unk> 为 此次 活动 使用 该 直升机 辩护 ，",
+    "ref": "at the time , former white house press secretary <unk> <unk> defended the use of the helicopter for the event .",
+    "hyp": "at the time , the white house house white house <unk> <unk> the the the for the ."
+  },
+  {
+    "src": "并称 “ 想法 是 在 本周 展示 美国 制造 的 东西 ，",
+    "ref": "\"the idea is to showcase this week things that are made in america , \" <unk> said .",
+    "hyp": "what idea idea is that the week week week week week week ."
+  },
+  {
+    "src": "而且 我 知道   <unk>   公司 和 康涅狄格州 都 为此 感到 自豪 ， 他们 都 为 我们 的 国家 安全 贡献 了 一份 力量 ， 我 猜测 就算 没有 数千 也 有 数百人 的 工作 要 依赖于 此 。",
+    "ref": "<unk> i know <unk> and the state of connecticut are very proud of the fact that they contribute to our national security , that there are , i assume , hundreds if not thousands of people whose job depends on that .",
+    "hyp": "and i know know that the and and and and proud and proud of their own , national security , , , i i that that many of thousands of young to ."
+  },
+  {
+    "src": "而且 我 觉得 像 大部分 美国 人 一样 ， 我们 都 为 <unk> 直升机 和 其他 军事 设备 感到 自豪 ， 这是 无数 美国 人 <unk> 作出 的 成果 。",
+    "ref": "and i think , like most americans , <unk> all proud of the helicopter and other military equipment that so many americans worked tirelessly to do .",
+    "hyp": "and i think like like the americans , americans , we have the to and and other and other military , , many americans the americans of americans . ."
+  },
+  {
+    "src": "所以 彰显 这 一点 当然 并 没有 不合时宜 。 ”",
+    "ref": "so , of course , <unk> appropriate to highlight that . \"",
+    "hyp": "so , , it is not no no . . ."
+  },
+  {
+    "src": "我们 并 不 清楚 特朗普 在 活动 中 <unk> 南 <unk> 时 是否 与 该 直升机 互动 ， 但 他 确实 <unk> 了 <unk> 的 <unk> 。",
+    "ref": "it <unk> clear whether trump <unk> with the helicopter as he <unk> the south <unk> for the event , but he did step into the <unk> seat of a fire truck .",
+    "hyp": "we do not know whether trump trump with the with the <unk> , , , , , he he <unk> <unk> <unk> ."
+  },
+  {
+    "src": "在 白宫 内 ， 特朗普 向   <unk>   公司 代表 发表 讲话 ， 拿 他 自己 拥有 的 该 公司 飞机 跟 媒体 开玩笑 。",
+    "ref": "inside the white house , trump addressed <unk> representatives , <unk> with the media about his own fleet of company products .",
+    "hyp": "in white white house , trump trump , the white house of the white house , , , his own company company ."
+  },
+  {
+    "src": "他 说 “ 我 很 了解   <unk>   飞机 。 我 有 <unk> 。 ”",
+    "ref": "\"i know <unk> very well , \" the president said , \"i have three of them . \"",
+    "hyp": "he said , “i know know <unk> , i i i . . ”"
+  },
+  {
+    "src": "习近平 关于 全面 <unk> 的 <unk>",
+    "ref": "brilliant metaphors of xi jinping about comprehensively strengthening party discipline",
+    "hyp": "xi ’s full <unk> of comprehensive comprehensive comprehensive ."
+  },
+  {
+    "src": "1 月 11 日 ， 在 中国共产党 <unk> <unk> 第二次 <unk> 上 ， 习近平 总书记 发表 <unk> ， 强调 “ 以 永远 在 路上 的 执着 把 全面 <unk> 引向 深入 ， 开创 全面 <unk> 新 局面 ” 。",
+    "ref": "during the second plenary session of the 19 th central commission for discipline inspection of the communist party of china , general secretary xi jinping gave a keynote speech on january 11 , emphasizing that “we should keep marching ahead on the road of adhering to the principle of comprehensively strengthening party discipline and creating a new situation for comprehensively strengthening party discipline ” .",
+    "hyp": "on november 11 , in the second th of the the communist party ’s second , , , , xi ’s xi ’s <unk> , , , <unk> , <unk> <unk> <unk> <unk> of the <unk> path toward a comprehensive path of a comprehensive and comprehensive a comprehensive comprehensive new"
+  },
+  {
+    "src": "关于 全面 <unk> ， 习近平 总书记 有过 很多 形象 的 比喻 ， 一同 回顾 ！",
+    "ref": "with respect to comprehensively strengthening party discipline , general secretary xi jinping has given many vivid and impressive metaphors , so let ’s review them together !",
+    "hyp": "on a comprehensive of , , the ’s of of the ’s of the <unk> , , , ! ! ! ! ! ! ! ! ! !"
+  },
+  {
+    "src": "“ 老虎 ” 要 <unk> 就 打 ， “ 苍蝇 ” <unk> 也 要 拍 。 要 推动 全面 <unk> 向 基层 延伸 ， 严厉 整治 发生 在 群众 身边 的 腐败问题 。",
+    "ref": "we should fight against “tigers ” (high <unk> corrupt officials ) immediately after we find evidence , and we should also deal with those “flies ” (low <unk> corrupt officials ) at the same time . we should spread the principle of comprehensively strengthening party discipline to grass-roots party organizations and make every effort to deal with those corruption problems in daily life of the general public .",
+    "hyp": "the <unk> <unk> , <unk> , ” , ” <unk> , <unk> , <unk> , <unk> , <unk> to the <unk> , and , corruption ,"
+  },
+  {
+    "src": "— — 2018 年 1 月 11 日 ， 习近平 在 中国共产党 <unk> <unk> 第二次 <unk> 上 发表 <unk>",
+    "ref": "- - on january 11 , 2018 , xi jinping gave a keynote speech during the second plenary session of the 19 th central commission for discipline inspection of the communist party of china",
+    "hyp": "in november on november 11 , xi xi ’s second second on the second party of the chinese communist party ’s second second . ."
+  },
+  {
+    "src": "广大 <unk> 干部 要 做到 忠诚 坚定 、 担当 <unk> 、 遵纪守法 、 <unk> ， 确保 <unk> 赋予 的 权力 不 被 滥用 、 <unk> 的 <unk> 永不 <unk> 。",
+    "ref": "officials responsible for discipline inspection and supervision at all levels should be loyal and determined , responsible , discipline and law-abiding , honest and <unk> in order to ensure that the power granted by the party and the people will not be abused , and the sharp sword used for praising virtue and punishing vice will never be covered by dust .",
+    "hyp": "the large officers officials have to to to , , , , , , , <unk> , and ensure that that power power not not be <unk> , <unk> , <unk> <unk> <unk> ."
+  },
+  {
+    "src": "— — 2018 年 1 月 11 日 ， 习近平 在 中国共产党 <unk> <unk> 第二次 <unk> 上 发表 <unk>",
+    "ref": "- - on january 11 , 2018 , xi jinping gave a keynote speech during the second plenary session of the 19 th central commission for discipline inspection of the communist party of china",
+    "hyp": "in november on november 11 , xi xi ’s second second on the second party of the chinese communist party ’s second second . ."
+  },
+  {
+    "src": "抓 落实 <unk> <unk> ， <unk> 口号 、 不 行动 不行 ， 单单 开会 、 <unk> 不够 ， 必须 落到实处 。",
+    "ref": "it is impossible to ensure implementation of policies by taking showy and impractical actions and shouting slogans . without practical actions , we can ’t ensure proper implementation of policies only by holding meetings and issuing documents . we must do our works in a practical manner .",
+    "hyp": "the <unk> <unk> , <unk> , <unk> , , , , , , , , , , , , , , must be must be . ."
+  },
+  {
+    "src": "— — 2017 年 12 月 25 日至 26 日 ， 习近平 在 <unk> 召开 的 民主 生活 会上 发表 <unk>",
+    "ref": "- - during december 25 and 26 , 2017 , xi jinping gave a keynote speech at the meeting of democratic life held by political bureau of the central committee of the cpc",
+    "hyp": "in december 25 december december december , xi xi xi on the th of of democracy in xi ’s democracy democracy ."
+  },
+  {
+    "src": "<unk> 的 同志 都 应该 <unk> <unk> ， 不能 颠倒 了 公私 、 混淆 了 是非 、 模糊 了 <unk> 、 放纵 了 <unk> ， <unk> <unk> <unk> 的 “ <unk> ” ， 推动 形成 <unk> 的 <unk> 。",
+    "ref": "our comrades from the political bureau should learn about history and be reasonable and must not confuse public and private interests , call white black , <unk> the boundary between <unk> and benefits or handle issues based on <unk> . you should erect a <unk> <unk> ” by taking the lead in adhering to honesty and <unk> and help establish a work style for the party characterized by honesty and integrity .",
+    "hyp": "<unk> <unk> <unk> should be <unk> , , , , , , , public , , , , <unk> , <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+  },
+  {
+    "src": "— — 2017 年 12 月 25 日至 26 日 ， 习近平 在 <unk> 召开 的 民主 生活 会上 发表 <unk>",
+    "ref": "- - during december 25 and 26 , 2017 , xi jinping gave a keynote speech at the meeting of democratic life held by political bureau of the central committee of the cpc",
+    "hyp": "in december 25 december december december , xi xi xi on the th of of democracy in xi ’s democracy democracy ."
+  },
+  {
+    "src": "用 一 <unk> 则 <unk> ， <unk> 就 <unk> 。 选 什么 人 就是 <unk> ， 就 有 什么样 的 <unk> ， 乃至 就 有 什么样 的 <unk> 。",
+    "ref": "a person of virtue will attract a group of persons of virtue , so all people will emulate those better than themselves and the action will become a common practice . personnel appointment serves as the <unk> <unk> ” , which will determine the work style of cadres and even the work style of the party .",
+    "hyp": "in the <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , , , , , , , , , ."
+  },
+  {
+    "src": "— — 2013 年 6 月 28 日 ， 习近平 在 全国 组织 工作 会议 上 的 讲话",
+    "ref": "- - from the speech delivered by xi jinping at the national organization working conference on june 28 , 2013",
+    "hyp": "on june 28 , xi ’s speech speech at the national of national national national national . ."
+  },
+  {
+    "src": "<unk> 必须 自身 硬 。 <unk> 团结 带领 人民 进行 伟大 斗争 、 推进 <unk> 、 实现 伟大 梦想 ， 必须 毫不动摇 坚持 和 完善 党的领导 ， 毫不动摇 把 党 建设 得 更加 <unk> 。",
+    "ref": "a <unk> must have necessary skills in order to do his job in a great way . the party should unite the people and lead them in fighting great battles , pushing forward great causes and realizing great dreams . we should adhere to and improve the party ’s leadership and make the party become stronger <unk> .",
+    "hyp": "the must must hard hard to , , solidarity , solidarity , , to fight against the great , , , great great , , and must must must must and and and , and and the party ."
+  },
+  {
+    "src": "— — 2017 年 10 月 18 日 ， 习近平 在 中国共产党 第十九次 全国代表大会 上 的 报告 指出",
+    "ref": "- - on october 18 , 2017 , xi jinping pointed out the following during the 19 th cpc national congress",
+    "hyp": "on october 18 18 , xi xi ’s report 19 19 th national congress party 19 19 th communist party party 19 19 th party party ."
+  },
+  {
+    "src": "当前 ， 反腐败 斗争 形势 依然 严峻 复杂 ， 巩固 压倒性 态势 、 夺取 压倒性 胜利 的 决心 必须 <unk> 。",
+    "ref": "at present , the anti-corruption campaign is still facing a complex and challenging situation , so we must be <unk> determined to consolidate the overwhelming trend and win an overwhelming victory .",
+    "hyp": "today , anti-corruption anti-corruption struggle remains remains complex , and , , , , determination , and decisive determination determination must be to . . ."
+  },
+  {
+    "src": "— — 2017 年 10 月 18 日 ， 习近平 在 中国共产党 第十九次 全国代表大会 上 的 报告 指出",
+    "ref": "- - on october 18 , 2017 , xi jinping pointed out the following during the 19 th cpc national congress",
+    "hyp": "on october 18 18 , xi xi ’s report 19 19 th national congress party 19 19 th communist party party 19 19 th party party ."
+  },
+  {
+    "src": "坚持 反腐败 无 禁区 、 全 覆盖 、 零 容忍 ， 坚定不移 “ <unk> ” 、 “ <unk> ” 、 “ <unk> ” ， 不敢 <unk> 的 目标 初步 实现 ， 不能 <unk> 的 笼子 <unk> <unk> ， 不想 <unk> 的 堤坝 正在 构筑 ， 反腐败 斗争 压倒性 态势 已经 形成 并 巩固 发展 。",
+    "ref": "during the anti-corruption campaign , we must adhere to the principles of no forbidden zone , full coverage and zero tolerance and should be determined to <unk> against tigers ” , <unk> flies ” and <unk> foxes ” . the goal of ensuring that officials dare not become corrupt is primarily achieved . the cage used for preventing corruption is getting increasingly secure , and the dam that can block intention of corruption is being built . an overwhelming trend of the anti-corruption campaign takes shape and is becoming increasingly consolidated and developed .",
+    "hyp": "insistence to press against , , , , , , , , , <unk> , <unk> , <unk> <unk> , , <unk> , , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , , <unk> , , , and , and , and"
+  },
+  {
+    "src": "— — 2017 年 10 月 18 日 ， 习近平 在 中国共产党 第十九次 全国代表大会 上 的 报告 指出",
+    "ref": "- - on october 18 , 2017 , xi jinping pointed out the following during the 19 th cpc national congress",
+    "hyp": "on october 18 18 , xi xi ’s report 19 19 th national congress party 19 19 th communist party party 19 19 th party party ."
+  },
+  {
+    "src": "各级 领导 干部 <unk> 执行 《 准则 》 、 《 条例 》 ， 把 好 <unk> “ <unk> ” ， <unk> 廉洁 “ 安全带 ” ， <unk> ， <unk> ， 自觉 为 营造 <unk> 正 的 政治 生态 <unk> <unk> 、 作出贡献 。",
+    "ref": "leading cadres at all levels should take the lead in implementing the codes and rules , hold the <unk> wheel ” in exercising power and <unk> the “safety belt ” for ensuring integrity . in addition , they should also make efforts to eliminate vice and <unk> virtue , strengthen resistance against corruption and eliminate evil factors , perform their duties in creating an honest and <unk> political ecology and make their contributions during the process .",
+    "hyp": "at the top level of <unk> <unk> , <unk> <unk> , <unk> , <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> political <unk> , political <unk> , political <unk> ."
+  },
+  {
+    "src": "— — 2017 年 3 月 8 日 ， 习近平 在 参加 <unk> 全国人大 <unk> 会议 四川 代表团 审议 时 强调",
+    "ref": "- - on march 8 , 2017 , xi jinping emphasized the following during review of the sichuan delegation at the 5 th session of the 12 th national people's congress",
+    "hyp": "on august 8 , xi , china ’s meeting of the conference of the the of the national of the conference of the conference of the ."
+  },
+  {
+    "src": "我们 党 反腐败 不是 <unk> 的 “ <unk> <unk> ” ， 不是 争权夺利 的 “ 纸牌 屋 ” ， 也 不是 <unk> 的 “ <unk> ” 。",
+    "ref": "the anti-corruption campaign of the cpc isn ’t a <unk> shop ” that treating different people with different attitudes , or a <unk> of cards ” characterized by fighting for power and benefit , or an <unk> building ” having a beginning but no end .",
+    "hyp": "the party is not not <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ” <unk> <unk> ” <unk> ” <unk> ” <unk> <unk> <unk> ”"
+  },
+  {
+    "src": "— — 2016 年 1 月 12 日 ， 习近平 在 <unk> <unk> 第六次 <unk> 上 的 讲话",
+    "ref": "- - from the speech delivered by xi jinping at the 6 th plenary session of the 18 th central commission for discipline inspection of the communist party of china on january 12 , 2016",
+    "hyp": "in 2016 january 2016 , xi xi speech speech speech speech in speech speech in january ."
+  },
+  {
+    "src": "实现 全面 建成 <unk> <unk> 、 实现 中华民族 伟大 复兴 的 中国 梦 ， 关键在于 培养 造就 一支 具有 铁 一般 信仰 、 铁 一般 信念 、 铁 一般 纪律 、 铁 一般 担当 的 <unk> 。",
+    "ref": "to achieve the goal of building a moderately well-off society in an <unk> way and realize the chinese dream of achieving the great rejuvenation of the chinese nation , it is key to cultivate and build a cadre team with <unk> faith , belief , discipline and sense of responsibility .",
+    "hyp": "to achieve a dream of a <unk> dream of a chinese dream of china , china ’s great great greatness , , a to create a a a <unk> of <unk> , <unk> , , <unk> , , <unk> , , <unk> , and"
+  },
+  {
+    "src": "— — 2015 年 12 月 11 日 ， 习近平 在 全国 <unk> 工作 会议 上 的 讲话",
+    "ref": "- - from the speech delivered by xi jinping at national party school working conference on december 11 , 2015",
+    "hyp": "in december december december , xi xi speech at the national of national national in national national national national . ."
+  },
+  {
+    "src": "要 深入 推进 反腐败 斗争 ， <unk> <unk> <unk> “ <unk> ” 、 治 “ <unk> ” 、 正 “ <unk> ” ， 使 领导 干部 受到 警醒 、 警示 、 <unk> 。",
+    "ref": "we should push forward the anti-corruption campaign in an in-depth manner and make great efforts to <unk> <unk> trees ” , fix “sick trees ” and make <unk> trees ” become <unk> in order to alert , warn and caution leading cadres .",
+    "hyp": "to advance the fight against anti-corruption anti-corruption , , <unk> <unk> <unk> <unk> <unk> , <unk> <unk> , <unk> <unk> , ” , leadership leadership , , , , warning , warning , warning ."
+  },
+  {
+    "src": "— — 2015 年 3 月 6 日 ， 习近平 参加 <unk> 全国人大 三次 会议 <unk> 代表团 审议 时 指出",
+    "ref": "- - on march 6 , 2015 , xi jinping pointed out the following during review of the <unk> delegation at the 3 rd session of the 12 th national people's congress",
+    "hyp": "on june 2015 , june , xi ’s meeting of the people ’s people of the people ’s people of the committee of the ."
+  },
+  {
+    "src": "<unk> 是 共产党人 的 精神 之 “ <unk> ” ， 必须 加强 思想 政治 建设 ， 解决 好 世界观 、 <unk> 、 价值观 这个 “ <unk> ” 问题 。",
+    "ref": "ideal and belief serve as <unk> ” for the spirit of members of the communist party , so we must strength ideological and political construction and solve any problem concerning outlook on world , outlook on life and values , which is the <unk> switch ” .",
+    "hyp": "<unk> was the <unk> spirit of the <unk> of the , , ” must strengthen the political political , order to address the , , , values , values values , values , values values , values values . values ."
+  },
+  {
+    "src": "— — 2014 年 1 月 20 日 ， 习近平 在 党 的 <unk> 教育 实践 活动 第一批 <unk> <unk> 部署 会议 上 发表 <unk>",
+    "ref": "- - on january 20 , 2014 , xi jinping gave a keynote speech at the <unk> meeting for the first <unk> & the deployment meeting for the second <unk> of educational and practical activities concerning the mass line of the party",
+    "hyp": "in january january 2014 , xi ’s meeting on the first meeting of the the ’s on the ’s top practices practices in ."
+  },
+  {
+    "src": "要 切实 执行 <unk> ， 不能 搞 特殊 、 有 例外 ， 各级 <unk> 要 <unk> <unk> ， 使 纪律 真正 成为 <unk> 的 <unk> 。",
+    "ref": "we should implement organizational discipline in a practical manner and must not tolerate privilege or exception . party organizations at all levels should dare to maintain discipline in order to make discipline become an actually live <unk> line .",
+    "hyp": "in terms of , , , , , , , , , , , , , , , , <unk> , the discipline , become a <unk> <unk> ."
+  },
+  {
+    "src": "— — 2014 年 1 月 14 日 ， 习近平 在 十八 届 <unk> 三次 <unk> 上 发表 <unk>",
+    "ref": "- - on january 14 , 2014 , xi jinping gave a keynote speech at the 3 th plenary session of the 18 th central commission for discipline inspection of the communist party of china",
+    "hyp": "in 2014 january 2014 , xi xi launched the three th anniversary of the 18 th congress in the ."
+  },
+  {
+    "src": "批评 和 自我批评 是 一剂 良药 ， 是 对 同志 、 对 自己 的 真正 <unk> 。 <unk> 和 自我批评 需要 勇气 和 <unk> ， 不能 把 我们 <unk> <unk> 的 武器 给 丢掉 了 。",
+    "ref": "criticism and <unk> serve as a good medicine and the actual care given to our comrades and ourselves . performing criticism and <unk> needs courage and party spirit , and we must not lose our weapon used for defending ourselves and treating diseases .",
+    "hyp": "critics and the side are <unk> , , , , for the , , , , , , , and , and , and , and , and to to the to of our weapons ."
+  },
+  {
+    "src": "— — 2013 年 9 月 25 日 ， 习近平 在 指导 <unk> <unk> 班子 <unk> 民主 生活 <unk> 强调",
+    "ref": "- - on september 25 , 2013 , xi jinping emphasized the following at the special meeting of democratic life attended by the leading group of the standing committee under the party committee of hebei province",
+    "hyp": "on september 25 2013 , xi xi xi emphasized a <unk> of of the <unk> of life of life of life ."
+  },
+  {
+    "src": "要 加强 对 权力 运行 的 制约 和 监督 ， 把 权力 关进 制度 的 笼子 里 ， 形成 不敢 <unk> 的 惩戒 机制 、 不能 <unk> 的 防范 机制 、 不 <unk> 的 <unk> 。",
+    "ref": "we should make efforts to strength restriction and supervision on exercise of power , put power into the cage formed by rules and regulations and establish a punishment mechanism which makes officials dare not to be corrupt , a prevention mechanism which makes officials unable to practice corruption and a safeguard mechanism which makes officials tend to guard against corruption .",
+    "hyp": "in order to limit and power and and power power power , the the of of the system , system , , <unk> mechanisms , no mechanism mechanism mechanism ,"
+  },
+  {
+    "src": "— — 2013 年 1 月 22 日 ， 习近平 在 十八 届 <unk> 第二次 <unk> 上 的 讲话",
+    "ref": "- - from the speech delivered by xi jinping at the 2 th plenary session of the 18 th central commission for discipline inspection of the communist party of china on january 22 , 2013",
+    "hyp": "in january 2013 , xi xi speech speech speech speech speech in the second th of the congress th congress ."
+  },
+  {
+    "src": "当晚 ， <unk> · 史密斯 以 <unk> 黑 西装 登台 ， 为 现场 的 1500 名 观众 <unk> 迪伦 <unk> 《 暴雨 将 至 》 。",
+    "ref": "that night , <unk> smith took to the stage in a white <unk> and black suit , and sang bob dylan ’s <unk> ” in front of a live audience of 1 ,500 people .",
+    "hyp": "on evening evening , the , the <unk> <unk> <unk> the <unk> <unk> <unk> , the <unk> of the <unk> of the the the the the <unk> ."
+  },
+  {
+    "src": "<unk> ， <unk> 目前 拥有 <unk> 设立 的 页岩 气 <unk> 18 个 和 国内 首个 页岩 气 <unk> — — 中国 石化 <unk> 页岩 气田 。",
+    "ref": "it is understood that chongqing currently owns 18 shale gas exploration rights established by ministry of land and resources as the first domestic shale gas mining rights - the <unk> <unk> shale gas field .",
+    "hyp": "according to the , , <unk> <unk> <unk> <unk> <unk> first two first shale shale shale first shale first shale first shale shale shale gas – – shale gas . ."
+  },
+  {
+    "src": "截至 2017 年 1 月 ， 重庆 全市 共 <unk> 页岩 气井 <unk> 口 ( 不 含 <unk> ) ， <unk> <unk> 口 ， 近期 ， 随着 中国 石化 <unk> 区 <unk> 南 区域 内 4 口 页岩 气 <unk> 测试 <unk> 均 超过 20 <unk> 的 好消息 传来 ， 全球 北美 以外 首个 商业化 开采 的 大型 页岩 气田 中国 石化 <unk> 页岩 气田 有望 按照 计划 在 今年 建成 100 <unk> 产能 。",
+    "ref": "as for january 2017 , a total of <unk> shale gas wells (excluding <unk> <unk> ) have been <unk> in chongqing , and <unk> have <unk> production . with recent positive news that the production volume of each of the four shale gas <unk> wells at <unk> ’s southern <unk> block of the <unk> district has exceeded 200 ,000 cubic meters per day , <unk> ’s <unk> shale gas field , which is expected to have a planned capacity of 10 billion cubic meters this year , will become the first commercialized drilling of a large-scale shale gas field outside north america .",
+    "hyp": "in january 2017 , the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> , <unk> , , <unk> , <unk> , <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> than two than two times of the ’s first two , ,"
+  },
+  {
+    "src": "据 了解 ， 100 <unk> 的 页岩 气田 相当于 一个 1000 <unk> 的 大 油田 。",
+    "ref": "it is understood that a 10 billion cubic meter shale gas field is equivalent to a 10 million <unk> oil field .",
+    "hyp": "according to the , , , <unk> of the <unk> of coal of a $100 of oil ."
+  },
+  {
+    "src": "据 了解 ， 页岩 气 作为 清洁 能源 ， 100 <unk> 页岩 气田 建成 后 每年 可 减排 二氧化碳 1200 万吨 。",
+    "ref": "shale gas is a clean energy resource . it is understood that the completion of the 10 billion cubic meter shale gas field will help cut 12 million <unk> of co2 emission annually .",
+    "hyp": "according to estimates , shale shale is a million tons of co2 billion tons of tons of co2 tons of tons of tons ."
+  },
+  {
+    "src": "在 功能 手机 时代 ， 手机 的 <unk> 就是 打电话 、 <unk> 、 简单 的 备忘录 ， 各种 手机 在 功能 上 差距 是 不 大 的 。",
+    "ref": "in a feature phone era , the basic functions of a mobile phone would be making a call , sending short text messages , and simple memos . the difference in the functions among mobile phones is quite small .",
+    "hyp": "in the age of mobile phones mobile phones mobile mobile phone , mobile , , simple simple , mobile phones , with a mobile ."
+  },
+  {
+    "src": "<unk> 有 了 计算机 以来 ， 努力 让 机器 智能 逐渐 向 人类 大脑 过渡 成为 了 很多 科研人员 的 一个 梦想 。",
+    "ref": "ever since computers were available , <unk> effort to make machine intelligence gradually transition toward the human brain has become a dream of many scientists .",
+    "hyp": "computer intelligence has has computers , computers to has transformed into into into human human into a human of human many human human . ."
+  },
+  {
+    "src": "《 毒枭 》 <unk> <unk> ： 随着 <unk> · <unk> 瓦尔 的 离开 ， 卡利 集团 开始 走上   Netflix   <unk> 剧 中心 舞台",
+    "ref": "<unk> season 3 <unk> : with <unk> <unk> gone , the <unk> cartel take centre stage in <unk> hit series",
+    "hyp": "the drug lords : : : as <unk> <unk> <unk> <unk> , , the group began to the the <unk> <unk> center center . <unk> center ."
+  },
+  {
+    "src": "尽管 《 毒枭 》 <unk> 揭露 了 杀害 <unk> · <unk> 瓦尔 的 凶手 ， 但 这部   Netflix   <unk> 剧 还 远远 没有 结束 。",
+    "ref": "despite season two of <unk> revealing <unk> <unk> killer , <unk> series is far from over .",
+    "hyp": "though the <unk> <unk> <unk> <unk> murder of murder , <unk> , , <unk> , the <unk> ."
+  },
+  {
+    "src": "<unk> 服务 已 确认 <unk> 和 <unk> ， <unk> 已 收到 首个 <unk> ， 片中 对 这部 剧中 即将 出现 的 <unk> 角色 进行 了 一番 <unk> 。",
+    "ref": "season three and four have already been confirmed by the streaming service , the former receiving its first <unk> , <unk> the <unk> upcoming villains .",
+    "hyp": "<unk> service has already confirmed <unk> and <unk> and <unk> , <unk> , the first <unk> , the <unk> , the the the the the the the the <unk> . ."
+  },
+  {
+    "src": "<unk> 中 ， <unk>   将 注意力 转向 世界 上 最 富有 的 贩毒 组织 ： 卡利 集团 。",
+    "ref": "with season three , the <unk> has turned their attention towards the richest drug trafficking <unk> in the world : the <unk> cartel .",
+    "hyp": "in the , , <unk> will attention attention to the world world richest richest : : : groups groups ."
+  },
+  {
+    "src": "卡利 集团 由 四位 强大 的 教父 级 大佬 把持 ， 像 “ 财富   500   强 ” 公司 一样 运作 ， 只是 涉及 更 多 的 政府 贿赂 和 暴力行为 。",
+    "ref": "led by four powerful <unk> , they operate <unk> a fortune 500 company \" just with more government bribes and violent actions .",
+    "hyp": "the group group of the four <unk> powerful , , <unk> , , as <unk> <unk> ” companies , , , more more government government government ."
+  },
+  {
+    "src": "<unk> 托 · <unk> · <unk> 拉 （ <unk> · <unk> <unk> ） 是 卡利 集团 的 领导人 ， <unk> · <unk> · <unk> 拉 （ <unk> · <unk> <unk> ） 是 卡利 集团 的 智囊 ， <unk>   <unk> <unk> · <unk> （ 阿尔伯 托 · 阿曼 <unk> ） 负责 运营 墨西哥 的 网络 ， <unk> · <unk> · 伦敦 诺 （ <unk> · <unk> <unk> ） 负责 纽约 的 运营 。",
+    "ref": "<unk> <unk> <unk> <unk> <unk> ) is the <unk> leader , <unk> <unk> <unk> <unk> <unk> ) being the brains , <unk> <unk> <unk> <unk> ) running the mexican connection , and <unk> <unk> <unk> <unk> <unk> ) based in new york .",
+    "hyp": "<unk> <unk> was a leader of the group , a group of <unk> group , a <unk> of the the <unk> , <unk> , the new york ’s new york , new york new york . new york ."
+  },
+  {
+    "src": "这部 新 发布 的 <unk> 中 ， <unk> · 帕斯卡 以 哈维尔 · <unk> 这 一 角色 重新 回归 。 哈维尔 · <unk> 这个 角色 支持 美国 和 哥伦比亚 执法 部门 ， 协助 开展 毒品 战争 。",
+    "ref": "the newly released <unk> sees pedro <unk> return as javier peña , the character <unk> american and colombian law enforcement to help with the war on drugs .",
+    "hyp": "according to the <unk> , <unk> <unk> , <unk> <unk> <unk> <unk> , <unk> <unk> <unk> america and the america ’s law and , helped help war war war drugs ."
+  },
+  {
+    "src": "其他 新 演员 包括   马蒂亚 斯 · <unk> 、 迈克尔 · <unk> - 大卫 、 马特 · <unk> 、 <unk> · <unk> · 西尔 韦斯特 <unk> · <unk> 、 和 <unk> · 卡斯特罗 。",
+    "ref": "other new actors include <unk> <unk> , michael <unk> , matt <unk> , <unk> angel <unk> , kerry <unk> , and <unk> castro .",
+    "hyp": "other new players include <unk> , michael michael , <unk> , <unk> <unk> <unk> , <unk> <unk> , and <unk> ."
+  },
+  {
+    "src": "《 毒枭 》 <unk> 将 于   9   月   1   日 亮相 。",
+    "ref": "season three of <unk> will debut 1 september .",
+    "hyp": "the drug lords will on september september september september ."
+  },
+  {
+    "src": "<unk> ， <unk> <unk> <unk> 中 没有 <unk> 的 原因 之一 ， 就 在于 没有 合适 地点 ， 因为 他们 <unk> 至少 要 容纳 3 万人 以上 的 户外 场地 。",
+    "ref": "it is understood that a reason for not having a hong kong stop in <unk> ’s tour this time round was because of a lack of an appropriate <unk> . the band specifically requested for an outdoor <unk> with a <unk> capacity of at least 30 ,000 .",
+    "hyp": "there is no one reason no reason for the <unk> , <unk> , one of the , , , because they they least at least at least 300 least 300 ,000 people ."
+  },
+  {
+    "src": "扎克 伯格 希望 借助 <unk> 项目 用 自己 的 声音 控制 家里 的 所有 东西 ， 从 音乐 到 灯光 再 到 温度 。",
+    "ref": "zuckerberg hopes to use <unk> to control everything at home , from music to lights to temperature , with his voice .",
+    "hyp": "zuckerberg wanted to to the to to their own own own own , , from the from the from the to the to the . ."
+  },
+  {
+    "src": "12 月 19 日 ， <unk> 对外 披露 ， 今年 7 月 ， 该 公司 成功 收购 <unk> <unk> <unk> ， 组建 <unk> 智能 汽车 <unk> 进入 新能源 汽车 领域 ， 围绕 新能源 汽车 研发 、 设计 、 生产 制造 ， 车 联网 应用 、 大 数据 、 自动 驾驶 、 云 <unk> 的 系统 研发 与 建设 运营 ， 打造 全新 产业 板块 。",
+    "ref": "on december 19 , <unk> publicly disclosed that the company successfully acquired <unk> <unk> automobile in july this year , and has set up <unk> smart auto <unk> . , <unk> to enter the renewable energy auto sector . centered on the research and development , designing , and production of renewable energy vehicles , as well as the system research and development , and building and operation of vehicle networking applications , big data , driverless vehicles , and cloud computer centers , the company aims to create a brand new industry sector .",
+    "hyp": "on december 19 , the ’s , revealed that the , the company company ’s <unk> <unk> <unk> <unk> <unk> <unk> <unk> cars , cars , new , , , , , , , , , , , , , , , , , , , , , , ,"
+  },
+  {
+    "src": "联合国 称 阿富汗 民主 取决于 女性 的 政治 地位",
+    "ref": "afghan democracy depends on political role for women , <unk> says",
+    "hyp": "the un ’s that afghanistan depends depends on women status status ."
+  },
+  {
+    "src": "联合国 驻 阿富汗 援助 <unk> <unk> 称 ， 只有 包括 女性 在内 的 社会 所有 成员 都 参与 的 选举 才 是 有 代表性 的 。",
+    "ref": "elections can only be representative if all members of society , including women , play a role , the head of the <unk> mission in afghanistan said <unk> .",
+    "hyp": "according to the united nations ambassador for afghanistan , afghanistan , , , that only only of all of women including including including , including members ."
+  },
+  {
+    "src": "联合国 援助 <unk> 尼古拉斯 · 海 <unk> 姆 称 ， 上 <unk> 女性 正在 参与 省级 议会选举 ， 三名 女性 正在 参加 副 总统 选举 ， 超过   30%   的 新 注册 选民 为 女性 。",
+    "ref": "nicholas <unk> , acting head of the <unk> assistance mission said hundreds of women are running in provincial council elections , three women are running for vice president and more than 30 percent of the <unk> voters are women .",
+    "hyp": "according to the united nations <unk> <unk> <unk> , <unk> <unk> , <unk> , women women women are women in participate in the , , , women , who are the , , , , , , than women female women . female women . female women ."
+  },
+  {
+    "src": "他 在 <unk> 的 声明 <unk> ， “ 女性 的 地位 不容 小觑 。 ”",
+    "ref": "\"the role of women cannot be overstated , \" he said in a statement <unk> .",
+    "hyp": "in his words , his words , , women ’s status be underestimated . be underestimated ."
+  },
+  {
+    "src": "只有 当 女性 完全 参与 并 包含 在 选举 过程 的 全部 阶段 中 ， 才 真正 是 有 代表性 的 、 可信 的 选举 。",
+    "ref": "elections can only be truly representative and credible when women fully participate and are included in all parts of the electoral process .",
+    "hyp": "only when women fully fully involved in a participation in and the the , , elections , a credible credible elections ."
+  },
+  {
+    "src": "阿富汗 省级 议会 和 总统 选举 于   4   月   5   日 举行 。",
+    "ref": "afghan provincial council and presidential elections take place april 5 .",
+    "hyp": "afghanistan ’s afghan and and and and presidential elections and april april april . ."
+  },
+  {
+    "src": "塔利班 对 一 选举 程序 发出 恐吓 ， 该 选举 与 国际 军事行动 向 顾问 身份 的 过渡 吻合 。",
+    "ref": "the taliban has issued threats against an election process that coincides with the transition of international combat operations to an advisory role .",
+    "hyp": "the taliban ’s request in the elections elections , the the the transition from the military of military operations ."
+  },
+  {
+    "src": "今年 的 选举 是 第一次 和平 实现 从 一个 民主选举 政府 到 下 一个 民主选举 政府 的 权力 交接 。",
+    "ref": "this year's elections mark the first time power is handed peacefully from one democratically elected government to the next .",
+    "hyp": "this year ’s election election a first step from a peaceful democratic government democratic elected government democratically elected democratically elected democratically elected government elected government elected government democratically elected elected government democratically elected elected government democratically elected elected government elected elected government elected elected government elected government elected government elected"
+  },
+  {
+    "src": "海 <unk> 姆 称 女性 的 重要 地位 将 促进 阿富汗 民主 。",
+    "ref": "<unk> said a strong role for women will add to afghanistan's democratic success .",
+    "hyp": "the <unk> of the <unk> of the women women importance of women to promote afghanistan afghanistan ."
+  },
+  {
+    "src": "独立 选举 委员会 发布 报告 称 ， 总计   360   万 注册 选民 中有   120   <unk> 女性 。",
+    "ref": "the afghan independent election commission reports 1.2 million women are registered out of 3.6 million total registered voters .",
+    "hyp": "the independent commission report report report reported that a million of million million voters women women women female women ."
+  },
+  {
+    "src": "连续 播出 三年 的 《 <unk> <unk> 》 自 2014 年 在 <unk> 上线 以来 一直 保持 超高 的 播放 量 及 <unk> 好评 度 。",
+    "ref": "<unk> <unk> ” , which has been broadcast for three consecutive years on <unk> since 2014 , has maintained very high <unk> and earned critical acclaim .",
+    "hyp": "three years of <unk> <unk> <unk> <unk> been been been <unk> since <unk> <unk> and <unk> <unk> since the 2014 in 2014 . 2014 ."
+  },
+  {
+    "src": "去年 5 月 ， 经典 <unk> 《 <unk> <unk> 》 以 “ A <unk> ” <unk> 西亚 <unk> 的 一记 耳光 正式 宣告 <unk> <unk> 终 。",
+    "ref": "last may , the season 7 <unk> of the classic american series “the good wife ” ended with <unk> being slapped in the face .",
+    "hyp": "last december , a <unk> formally formally <unk> the the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> . <unk> ."
+  },
+  {
+    "src": "对于 很多 人 而言 ， 这是 他们 心目 中 最好 的 <unk> 剧 。 无论 <unk> 还是 <unk> ， <unk> <unk> 的 <unk> 都 在 9 分 以上 。",
+    "ref": "this was the best legal and political drama in the eyes of many . both <unk> and <unk> gave season 7 of the series an average rating of 9 and above .",
+    "hyp": "for many people , it is the best best that the best best <unk> , <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+  },
+  {
+    "src": "烂 <unk> <unk> <unk> 外 ， 其他 <unk> <unk> 都 高达 100% 。",
+    "ref": "other than season 1 , rotten tomatoes had a 100% certified fresh rating for the other six seasons .",
+    "hyp": "<unk> <unk> <unk> <unk> , other other other , , other 100% ."
+  },
+  {
+    "src": "就 在 <unk> <unk> 倍感 失落 之际 ， <unk> 网上 频道 新 推出 了 一部 《 <unk> <unk> 》 系列 衍生 剧 《 <unk> 之战 》 。",
+    "ref": "just when fans of “the good wife ” felt lost , <unk> released “the good fight ” , a <unk> to “the good wife ” on <unk> all access , its streaming service .",
+    "hyp": "in the <unk> of <unk> , <unk> <unk> , the <unk> of the <unk> new <unk> <unk> new <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+  },
+  {
+    "src": "在 <unk> 上 ， 这一 分数 ， 不仅 打败 了 <unk> 播出 的 众多 <unk> ， 也 打败 了 <unk> 的 <unk> 《 <unk> <unk> 》 ， 更 首次 打破 了 衍生 剧 “ <unk> ” 的 魔咒 。",
+    "ref": "on <unk> , its rating not only beat many american <unk> broadcast at the same time , it also beat that of all the seasons of “the good wife ” , breaking the curse of a “bad <unk> to a masterpiece ” .",
+    "hyp": "in this sense , this was not only not only <unk> <unk> <unk> <unk> , but also <unk> <unk> <unk> <unk> <unk> <unk> <unk> the <unk> <unk> the <unk> <unk> <unk> <unk> <unk> <unk> . ”"
+  },
+  {
+    "src": "<unk> 联赛 <unk> 进行 了 <unk> 第 16 轮 争夺 ， <unk> 因 病 <unk> ， 北京 <unk> <unk> <unk> 不 敌 <unk> 。",
+    "ref": "the 16 th round of the <unk> team of the table tennis super league took place last night . <unk> <unk> missed the match due to illness . as a guest member , the <unk> team of beijing <unk> group failed shandong <unk> .",
+    "hyp": "<unk> <unk> <unk> <unk> <unk> 16 16 16 <unk> , <unk> , <unk> <unk> , <unk> beijing , beijing , <unk> <unk> <unk> beijing ."
+  },
+  {
+    "src": "13 开发商 <unk> <unk> <unk> <unk> <unk> 地价 或 将 <unk> 1 <unk> / <unk>",
+    "ref": "13 developers compete for <unk> chemical plant site in <unk> district ; land price could exceed <unk> ,000 <unk>",
+    "hyp": "the <unk> <unk> <unk> <unk> <unk> or <unk> or <unk> or <unk> or <unk> or <unk> <unk> <unk> <unk> <unk> ."
+  },
+  {
+    "src": "<unk> <unk> 记者 <unk> 报道 ： <unk> ， 将 有 不少 于 13 家 开发商 <unk> <unk> <unk> <unk> ， 今天 出让 的 <unk> <unk> 大道 <unk> <unk> <unk> ， 为 <unk> <unk> （ <unk> ） ， 用地 面积 <unk> <unk> （ 可 建设 用地 <unk> <unk> ） ， <unk> 为 <unk> <unk> 。",
+    "ref": "<unk> evening news <unk> zhao <unk> : this afternoon , not less than 13 developers competed for the <unk> chemical plant site . the <unk> chemical plant site at <unk> road in <unk> district is a class 2 land parcel for residential use <unk> ) , with site area of 17 <unk> m2 <unk> available for construction : 15 <unk> m2 ) , and gross floor area of 45 <unk> m2 .",
+    "hyp": "<unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> , a few of <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> , <unk> <unk> , <unk> <unk> , <unk>"
+  },
+  {
+    "src": "<unk> 设有 中小 <unk> 要求 ， 90 <unk> 以下 <unk> <unk> 住宅 开发 建设 总面积 比例 不 低于 60% 。",
+    "ref": "there are requirements for small and medium-sized units for the site . the proportion of <unk> gross floor area for the development of residential units 90 m2 and below should not be less than 60% at this site .",
+    "hyp": "the <unk> of <unk> , <unk> <unk> , <unk> , , <unk> , <unk> of the in the size of the area in below the than 60% ."
+  },
+  {
+    "src": "<unk> <unk> 的 最大 面积 计算 ， 该 <unk> 将 至少 可以 提供 <unk> 套 中 <unk> 住宅 。",
+    "ref": "based on the largest floor area of a small to medium-sized unit , at least <unk> small and medium-sized units could be offered at this site .",
+    "hyp": "according to the <unk> of of the , , , , would at least at least the least <unk> <unk> ."
+  },
+  {
+    "src": "<unk> ， 该 <unk> 位于 <unk> <unk> 正 <unk> ， 马路 <unk> 便是 <unk> 建筑 <unk> 。 该地 周边 配套 完善 ， 为 今年 <unk> 的 <unk> <unk> 住宅 用地 。",
+    "ref": "it is understood that this site is located directly east of <unk> <unk> , and across the road from guangzhou <unk> architecture design institute . <unk> around the site are comprehensive . it is the first listing of a residential site in the <unk> district this year .",
+    "hyp": "<unk> , <unk> , <unk> was <unk> <unk> <unk> <unk> <unk> <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> this year year this year . this year . year . this year . year ."
+  },
+  {
+    "src": "另外 ， 今天 还 将 出让 <unk> 同 和 <unk> <unk> <unk> <unk> 一幅 <unk> <unk> （ <unk> ） ， 用地 面积 <unk> <unk> （ 可 建设 用地 <unk> <unk> ） ， <unk> <unk> <unk> ， <unk> 起始 价 <unk> <unk> ， 折合 <unk> <unk> 元 / <unk> 。",
+    "ref": "elsewhere , a class 2 land parcel for residential use <unk> ) at chan chu shi north road , <unk> <unk> , <unk> district , was also offered for sale today , with site area of 32 <unk> m2 <unk> available for construction : 30 <unk> m2 ) , and gross floor area of 92 <unk> m2 . the listed starting price was <unk> million , equivalent to <unk> ,600 per m2 per plot ratio .",
+    "hyp": "moreover , today will also <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>"
+  },
+  {
+    "src": "该 <unk> 为 <unk> 今年 来 推出 的 <unk> <unk> ， 同样 要求 中小 <unk> （ 90 <unk> 以下 ） 比例 为 30% 。",
+    "ref": "this land parcel is the first residential site offered for sale in <unk> district this year . similarly , there are requirements for small and medium-sized units <unk> m2 and below ) , with the proportion at 30% .",
+    "hyp": "it was the to the <unk> <unk> <unk> year , year , which requires a small small share of relative to 30% 30% ."
+  },
+  {
+    "src": "地铁 <unk> 线 <unk> 从 其 <unk> 穿过 ， <unk> 正 位于 同 和 站 和 <unk> 南方 医院 站 之间 的 <unk> 。",
+    "ref": "the site , with the extended guangzhou metro line 3 passing through its east side , is located at the section of the road between <unk> and <unk> <unk> hospital stations .",
+    "hyp": "the <unk> <unk> <unk> <unk> from from from <unk> , <unk> , <unk> <unk> <unk> <unk> between between and and and and ."
+  },
+  {
+    "src": "“ 一天 十亿 只 包裹 ， 不会 超过 八年 ， 估计 在 <unk> 左右 就 能 实现 。 ” 在 <unk> 杭州 <unk> 小镇 举行 的 “ 2017 全球 智慧 物流 峰会 ” 上 ， 阿里巴巴 <unk> 主席 <unk> 如是说 。",
+    "ref": "“1 billion <unk> per day can be achieved in less than eight years ; probably in about six to seven years , ” said alibaba chairman jack ma yesterday at the <unk> global smart logistics summit ” held in <unk> township , hangzhou .",
+    "hyp": "one day five million , , , than eight eight years , , estimated estimated that around the world ’s <unk> ” <unk> ” <unk> ” <unk> , ” <unk> , , <unk> <unk> , <unk> <unk> <unk> <unk> ."
+  },
+  {
+    "src": "在 这次 大会 上 ， <unk> 网络 发布 了 全新 的 品牌 标识 和 <unk> 绿色 智慧 物流 汽车 计划 ， 并 宣布 与 多家 知名 <unk> 打造 百 万辆 “ 智慧 ” 新能源 物流 汽车 ， 目前 新车 已 在 深圳 和 成都 进行 试点 ， <unk> 超过 <unk> 。",
+    "ref": "at the summit , <unk> networks unveiled its new brand <unk> and the <unk> green smart logistics vehicle plan . it also announced that it will build one million “smart ” renewable energy logistics vehicles with numerous renowned automakers . currently , the new vehicle has undergone trials in shenzhen and <unk> , with cost savings of more than 20% .",
+    "hyp": "in this month , the network published a new <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> and and , and <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> , , , now is now in <unk> and and , and"
+  },
+  {
+    "src": "2016 年 ， 中国 <unk> 业已 实现 连续 6 年增长率 超过 50% ， 日均 8000 万个 包裹 ， 还 可以 更改 <unk> 时间 。",
+    "ref": "in 2016 , china ’s express delivery industry achieved more than 50% growth for six consecutive years , with an average of 80 million <unk> per day , with changes in delivery time allowed as well .",
+    "hyp": "in 2016 , china ’s china had already to to of annual growth annual annual rate , , , ,000 ,000 ,000 per ,000 , and could be <unk> ."
+  },
+  {
+    "src": "这 让 住 在 <unk> 民主 路 <unk> <unk> 的 高 <unk> <unk> 很 高兴 。",
+    "ref": "this made <unk> <unk> and her family , residents of the machinery office <unk> at <unk> road in <unk> , very happy .",
+    "hyp": "this makes it difficult to <unk> high <unk> <unk> <unk> <unk> <unk> <unk> ."
+  },
+  {
+    "src": "邻居们 也 都 说 <unk> 开花 ， 真是 <unk> 。 <unk> 居民 们 认为 这是 一件 很 <unk> 的 事 ， 得知 后 都 <unk> 前来 观看 。",
+    "ref": "neighbors also said that flowers <unk> on the money tree is a rare sight . residents of the housing estate felt that this was very auspicious , and came to take a look out of interest after learning about the matter .",
+    "hyp": "it is hard to say that the <unk> , <unk> , , , , , , <unk> , <unk> , <unk> , , <unk> ,"
+  },
+  {
+    "src": "<unk> <unk> “ 马拉 <unk> ” ， 是 一种 <unk> ， 原产 墨西哥 ， <unk> 温暖 <unk> ， 必须 在 阳光 、 <unk> 、 <unk> 等 多个 条件 都 适宜 的 情况 下 ， 才 可能 出现 开花 现象 。",
+    "ref": "the scientific name for the money tree is <unk> <unk> ” , a tropical plant native to mexico . it performs best in warm and <unk> conditions , and its flowers will only bloom under appropriate conditions such as sunlight , water and <unk> .",
+    "hyp": "<unk> <unk> <unk> <unk> <unk> <unk> , <unk> , , <unk> , <unk> , , <unk> , <unk> , , , , , , , , , , , , , , , , , , , ."
+  },
+  {
+    "src": "即使 在 热带 条件 适宜 的 <unk> ， <unk> 开花 也 属 罕见 ， 曾 有 “ 开花 <unk> <unk> ” 的 说法 。",
+    "ref": "even in the wild where tropical conditions are appropriate , flowers <unk> on money trees are rare . it was once said that the <unk> of flowers <unk> is one in a thousand ” .",
+    "hyp": "even in the <unk> of <unk> , <unk> , <unk> , <unk> , <unk> rare <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> . <unk> . ”"
+  },
+  {
+    "src": "<unk> ， 记者 来到 <unk> 民主 路 <unk> <unk> ， 在 高 <unk> 的 指引 下 ， 记者 见到 了 那 棵 <unk> 。",
+    "ref": "yesterday morning , reporters visited the <unk> machinery office <unk> at <unk> road . led by <unk> <unk> , the reporters saw the money tree .",
+    "hyp": "on the , , reporters to <unk> <unk> to the <unk> <unk> , , , , <unk> , , <unk> , ."
+  },
+  {
+    "src": "<unk> <unk> 在 <unk> 的 <unk> 里 ， 大约 5 米 高 ， 最 <unk> 的 树枝 <unk> 约 30 厘米 ， <unk> <unk> <unk> 。",
+    "ref": "planted amid the <unk> bed of the housing estate , the money tree was about five meters tall , and the branch <unk> , at its <unk> , measured approximately 30 <unk> . its leaves were <unk> green and <unk> .",
+    "hyp": "in <unk> <unk> , <unk> <unk> , <unk> <unk> , <unk> , <unk> , <unk> , <unk> <unk> <unk> 30 <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+  },
+  {
+    "src": "<unk> <unk> 较 高 树枝 顶端 ， <unk> 的 花 有 10 <unk> 宽 ， <unk> 的 <unk> 均匀 <unk> ， 绿色 <unk> <unk> 后 <unk> 在 <unk> ， <unk> <unk> 如 <unk> ， <unk> 金星 <unk> 。",
+    "ref": "the flowers <unk> at tips of higher branches , and the flowers that were in full bloom were more than 10 <unk> wide . the delicate pale yellow <unk> were evenly spread out , and the green <unk> , when burst , <unk> backwards on both sides . the fine and dense <unk> resembled silver threads with gold stars at their tips .",
+    "hyp": "the <unk> <unk> <unk> the the <unk> <unk> , <unk> , a <unk> <unk> , a <unk> <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>"
+  },
+  {
+    "src": "高 <unk> 告诉 记者 ， <unk> <unk> <unk> 了 8 年 了 ， 当时 种 的 时候 大约 高 1 米 ， 现在 <unk> 5 米 多 了 。",
+    "ref": "<unk> <unk> told the reporters that the money tree has been planted for eight years . when it was first planted , it was about one meter tall ; it is now more than five meters tall .",
+    "hyp": "high <unk> tell reporters reporters , <unk> <unk> , 8 8 , , , when roughly 1 ,500 , , <unk> , more 5 ,000 . ."
+  },
+  {
+    "src": "这 是 她 儿子 从 <unk> 市场 购买 回来 的 <unk> ， 后来 种 在 了 <unk> 里 ， 她 也 不怎么 打理 ， 就是 有时候 <unk> <unk> 而已 。",
+    "ref": "it was originally a <unk> plant when her son first bought it from the <unk> and bird market , and was subsequently planted in the <unk> bed . she did not have to take particular care of it , but would occasionally earth it up .",
+    "hyp": "this is the the son son from the from the from the from the home , and , she , she , , , , , , , ."
+  },
+  {
+    "src": "在 2018 年 即将 到来之际 ， <unk> 特别 推出 了 9 台 11 场 新年 系列 音乐会 ， 用 <unk> <unk> 陪伴 <unk> 共 <unk> ， 以 动人 <unk> <unk> 最 诚挚 的 节日 祝福 。",
+    "ref": "with the advent of 2018 , the national centre for the performing arts has <unk> organized nine sets of 11 new year <unk> . ingenious musical notes accompanied the audience to usher in the new year , and moving <unk> were played offering the most sincere <unk> for the festival .",
+    "hyp": "in 2018 2018 , 2018 , the special special of <unk> new new 11 new 11 , new <unk> , , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+  },
+  {
+    "src": "从 体育 人群 的 增多 、 <unk> 的 发展 ， 到 <unk> 的 兴起 ， 体育运动 正在 以 更 强大 的 号召力 ， 影响 着 中国 社会 行进 的 步伐 。",
+    "ref": "from the increase of sports crowd , the development of sports undertakings to the rise of sports industry , sports is influencing the progressing pace of chinese society with more powerful appeal .",
+    "hyp": "from the <unk> of , <unk> <unk> , , <unk> , , <unk> , , is is more powerful appeal , , the the the of china ’s social society . ."
+  },
+  {
+    "src": "11 月 4 日 ， <unk> <unk> 工业园 <unk> 副 主任 <unk> 代表 <unk> 与 <unk> <unk> 新能源 科技 <unk> 总裁 左 <unk> 签署 《 <unk> 生产 基地 项目 投资 建设 <unk> 》 。",
+    "ref": "on november 4 , deputy director of the management committee of <unk> overseas chinese industrial park <unk> ) , pan hong , on behalf of <unk> , and <unk> <unk> , president of <unk> <unk> new energy and technology <unk> . , <unk> entered into the <unk> production base investment and construction contract ” .",
+    "hyp": "on april 4 , the <unk> of the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+  },
+  {
+    "src": "该 企业 正式 <unk> <unk> 高科技 <unk> ， 项目 <unk> 于 <unk> 高科技 <unk> 内 ， 主要 从事 <unk> 电池 <unk> 材料 的 生产 ， 预计 明年 5 月 进入 <unk> 阶段 ， 全面 <unk> 后 产值 超 30 亿元 ， 并 能 带动 企业 上下 产业链 集聚 <unk> 高科技 <unk> ， 加快 <unk> 的 发展 。",
+    "ref": "the enterprise officially established its plant in <unk> overseas chinese hi-tech industrial base , mainly to produce <unk> <unk> material . trial production is expected to <unk> next may . when operating at designed capacity , output value could exceed <unk> billion , and it could help bring up - and downstream enterprises along the industry chain into <unk> overseas chinese hi-tech industrial base , thus accelerating the growth of the industrial base .",
+    "hyp": "the company ’s <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> , , <unk> <unk> <unk> <unk> <unk> , , <unk> , <unk> , <unk> , <unk> , <unk> <unk> <unk> <unk> <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , , <unk> <unk>"
+  },
+  {
+    "src": "这 两位 政府 官员 称 ， 苹果 上个月 致信 印度政府 ， 阐述 了 在 印度 生产 iPhone 等 产品 的 计划 ， 并 希望 印度政府 能 在 财政 方面 出台 优惠政策 。",
+    "ref": "these two government officials claimed that apple sent a letter to the indian government last month , which set forth its plans to produce iphone and other products in india , and hoped that the indian government would introduce preferential policies on the fiscal front .",
+    "hyp": "this two officials officials officials that , last month last month last month month , month month , a plan to india india products india india india india india , india , and , and to india to"
+  },
+  {
+    "src": "据 市场 <unk> 报道 ， 从 2005 年 到 2011 年 ， <unk> GDP 一举 由 中部 <unk> “ 垫底 ” 升至 <unk> 。",
+    "ref": "<unk> <unk> reported that between 2005 and 2011 , the gdp of <unk> province rose from joint “bottom ” to second at one stroke .",
+    "hyp": "according to the market market , , by 2011 to 2011 to 2011 to 2011 to 2011 , <unk> <unk> <unk> <unk> <unk> . ”"
+  },
+  {
+    "src": "但 <unk> 经济 增长 仍 存在 投资 效率 偏低 、 工业 经济 缺乏 核心 竞争力 等 困境 。 为此 ， 省 经济 信息中心 最新 一期 《 经济 <unk> 》 建议 提高 经济 增长 的 质量 和 效益 。",
+    "ref": "however , the province ’s economic growth continued to experience difficulties such as low investment efficiency , and a lack of core competitiveness in its industrial economy . to this end , the latest issue of the “economic blue paper ” of the province ’s economic information center advised raising the quality and benefit of economic growth .",
+    "hyp": "but there is little to to economic growth economic growth growth , the the economy , , competitive economy , economic competitiveness , the economy economy economic economic economic economic economic economic economic economic economic and economic quality economic economic growth . economic growth ."
+  },
+  {
+    "src": "以 2005 年 和 2011 年 <unk> 经济 的 一些 代表性 指标 为 依据 ， 将 其 与 全国 及 中部 地区 进行 比较 。",
+    "ref": "we have made a comparison of some of the representative indices of the province ’s economy between 2005 and 2011 with that of the nation and central china .",
+    "hyp": "some of indicators indicators in 2005 in 2011 and 2011 and 2011 , 2011 , , compare compare the country with the and and the region ."
+  },
+  {
+    "src": "在 工业 经济效益 上 ， 2011 年 ， 在 <unk> 占有 相当 比例 的 工业 能源 、 原材料 等 <unk> 行业 ， 受 市场 波动 影响 较大 和 产能 过剩 “ 双重 压力 ” ， 同时 ， <unk> 、 汽车 等 <unk> 创新力 不足 ， 导致 利润 微薄 。",
+    "ref": "in 2011 , in terms of industrial economic benefit , high energy consumption industries such as industrial energy and raw materials , which comprised a relatively large proportion of the province , had to endure <unk> pressures ” - they were significantly affected by market volatility as well as overcapacity . at the same time , home appliances , automotive and other leading industries lacked innovation , resulting in slim profits .",
+    "hyp": "in industrial industrial industrial industry , in industries , industries industries , industries , industries , industries , , , , , , and , owing to volatility volatility and , and , , , , <unk> , , such as <unk> <unk> , , , , , , ,"
+  },
+  {
+    "src": "而 大量 的 投资 没有 带来 相应 经济效益 ， 是 导致 <unk> 经济 增长 质量 和 效益 不高 的 重要 原因 。",
+    "ref": "meanwhile , enormous investment did not bring about the corresponding economic benefit , which was a key factor leading to poor quality and benefit in economic growth .",
+    "hyp": "large investment investment has not yield economic benefits , leading to the important cause causes economic economic growth and benefits benefits and benefits . benefits ."
+  },
+  {
+    "src": "对此 ， <unk> ， 要 采取有效 措施 鼓励 企业 创新 ， 高校 及 <unk> 的 <unk> 也 要 及时 向 企业 “ 转移 ” 。",
+    "ref": "as regards this , experts advised that effective measures should be adopted to incentivize enterprises to innovate . the technical outcomes of institutions of higher learning and technological research institutes should also be promptly <unk> ” to enterprises .",
+    "hyp": "so , , , measures measures to encourage encourage innovation , and , and and <unk> and to to to to to businesses . ”"
+  },
+  {
+    "src": "对于 工业 经济效益 不高 ， 专家 说 ， 也 要 积极 推动 产业 兼并 重组 、 优化 <unk> 、 延伸 产业链 。",
+    "ref": "as for low industrial economic benefit , experts said that industry merger and reorganization should be actively advanced , industry structure optimized , and the industry chain extended .",
+    "hyp": "for industrial industrial industry , experts experts argue that it is also to push industrial vehicles , <unk> <unk> , and and <unk> ."
+  },
+  {
+    "src": "<unk> <unk> 说 ， <unk> 开局 非常 完美 ， 自己 以为 很快 就 会 <unk> 败北 ， 但 随后 他 还是 坚持 自我 ， 终于 <unk> 。",
+    "ref": "<unk> had a very perfect start . i thought i might lose the competition very soon . but i didn ’t give up , and finally turn the tables , ” said marco fu after the match .",
+    "hyp": "as <unk> <unk> said , <unk> , , , , , , , he soon soon soon , soon , but he , he , , , , ."
+  },
+  {
+    "src": "从 <unk> 时间 看 ， 这个 <unk> 正好 是 <unk> <unk> 的 关键 阶段 ， <unk> 主力 被 <unk> ， 必然 将会 对 <unk> 训练 造成 相当 大 的 影响 。",
+    "ref": "th period of intensive training just meets the key stage of each team ’s winter training . with the main force of each team absent , the preparation training will be inevitably affected .",
+    "hyp": "on the time time , this <unk> was the first of of the <unk> , , <unk> , , <unk> , , a <unk> of a <unk> , ."
+  },
+  {
+    "src": "一方面 汽车 技术 经过 <unk> 的 发展 ， 许多 技术 已经 比较 成熟 ； 一方面 未来 汽车 的 用户 体验 更多地 取决于 <unk> 互动 ， <unk> 在 IT 、 网络 、 车 联网 系统 等 领域 有 优势 。",
+    "ref": "automobile technology has developed for more than a century , and a lot of the technology is fairly mature . however , future auto user experience is more dependent on <unk> interaction . <unk> has advantages in the areas of it , network , and auto networking systems .",
+    "hyp": "the technology technology technology technology development technology , many technology technologies are more sophisticated ; ; ; the the of of the more on on the , , , advantage of the , networks , networks , networks , and the internet system ."
+  },
+  {
+    "src": "英国 <unk>   ( <unk> )   关注 针对 <unk> 他 公司   ( <unk> )   <unk> 工厂 的 投资",
+    "ref": "<unk> concern over investment at <unk> <unk> factory",
+    "hyp": "the british <unk> <unk> attention to the british investment <unk> <unk> <unk> ."
+  },
+  {
+    "src": "工会 希望 <unk> 制造商 <unk> 他 公司 管理层 保证 长期 致力于 在 拉斯 <unk> 工厂 进行 生产 。",
+    "ref": "a union is seeking reassurance from managers at <unk> maker <unk> over its long-term commitment to production at its factory in <unk> .",
+    "hyp": "trade unions want to manufacturers manufacturers to corporate corporate management management ensure that long long to to production factories ."
+  },
+  {
+    "src": "英国 <unk> 苏格兰 <unk> 称 ， 该 公司 对 <unk> <unk>   ( <unk> )   工厂 投资 的 未来 一直 保持沉默 。",
+    "ref": "<unk> scotland said the company had been silent over the future of investment at the <unk> site .",
+    "hyp": "the british kingdom ’s <unk> scotland , that the company ’s future of the <unk> of <unk> factories investing in factories ."
+  },
+  {
+    "src": "该 工厂 有   500   多名 员工 ， 生产 <unk> <unk>   ( <unk> )   、 <unk> <unk>   ( <unk>   <unk> )   等 产品 。",
+    "ref": "more than 500 people work at the plant , which produces <unk> and rich tea <unk> , among other products .",
+    "hyp": "the factory of more than employees employees , , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+  },
+  {
+    "src": "<unk> 他 公司 的 所有人 普拉 迪   ( <unk> )   斯 表示 ， 过去 几年 来 ， 公司 已经 向 该 工厂 投资 了   500   <unk> 。",
+    "ref": "<unk> owner <unk> said it had invested more than <unk> at the site in the last few years .",
+    "hyp": "according to company , the company ’s company <unk> <unk> <unk> , the company has has has investment has invested over investment investment over the last few years few years years ."
+  },
+  {
+    "src": "他 补充 道 ， 如 工厂 运营 有 变化 ， 员工 和 工会 代表 “ 会 率先 知道 ” 。",
+    "ref": "it added employees and union representatives <unk> be the first to know \" if there were any changes to its operations .",
+    "hyp": "he , , , changes in factory factory are changing , employees , and unions unions represent the know . ” ” ” ”"
+  },
+  {
+    "src": "在 致 公司 <unk> 的 信中 ， 英国 <unk> 苏格兰 <unk> 呼吁 <unk> 他 公司 “ 解决 资金 未 <unk> 到 生产线 现代化 上 的 问题 。 ”",
+    "ref": "in a letter to the <unk> site manager , <unk> scotland called on <unk> to <unk> concerns that funding is not being brought forward for the <unk> of production lines . \"",
+    "hyp": "in a letter of the british company , the british british <unk> called british <unk> to <unk> company ’s <unk> to solve the <unk> of the <unk> ."
+  },
+  {
+    "src": "英国 <unk> 资深 <unk> 德鲁 ? <unk>   ( <unk>   <unk> )   说 ： “ 我们 无法 从 工厂 <unk> 那里 清楚 了解 到 <unk> <unk>   ( <unk> )   未来 的 业务 需求 和 投资 计划 ， 这使 我们 的 成员 深感 担忧 。",
+    "ref": "<unk> senior <unk> drew <unk> , said : \"the fact that we cannot get clarity from the general site manager over the business needs and investment plan for the future of <unk> is deeply concerning our members .",
+    "hyp": "the british <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> : “we cannot ’t know know know from the from the <unk> of the future and investment future , , , , , our , worry about our concerns ."
+  },
+  {
+    "src": "一代 又 一代 的 家族 在 这里 工作 ， 而且 本地 社区 和 大 <unk> 地区 劳动力 高度集中 ， 是 高 失业 和 社会 剥夺 严重 的 地区 体面 就业 的 重要 支柱 。",
+    "ref": "generations of families have worked here and the workforce is highly concentrated in the local community and the greater <unk> area , a crucial pillar of decent employment in an area of high unemployment and social deprivation .",
+    "hyp": "younger generations and families families work work work , and and local communities and large communities and large and and large and of major employment and social jobs ."
+  },
+  {
+    "src": "因此 ， 从 就业 、 薪酬 和 经济繁荣 的 角度 来看 ， 在 英国 脱欧 ， 生活 成本 上涨 和 制造业 长期 衰退 的 背景 下 ， <unk> 东部 地区 迫切需要 <unk> 他 不断扩大 生产 网络 。 ”",
+    "ref": "so , from the perspective of jobs , pay and prosperity , and against the backdrop of brexit , rising cost of living and chronic manufacturing decline , the east end of <unk> desperately needs a thriving manufacturing presence at <unk> . \"",
+    "hyp": "thus , in terms of employment , wages , wages , and economic economic , , in the brexit , the costs of the and and manufacturing manufacturing in in the middle east , regions , the region ."
+  },
+  {
+    "src": "普 <unk> 公司 的 发言人 表示 ： “ <unk> <unk>   ( <unk> )   的 <unk> <unk> 刚 收到 英国 <unk> 苏格兰 <unk> 的 <unk> ， 该 公司 将会 立即 进行 回复 ， 因为 我们 重视 与 雇员 和 工会 代表 保持 持续 接触 。",
+    "ref": "a <unk> for <unk> said : \"the site manager at <unk> received a letter from <unk> scotland only yesterday and the company will be responding directly as we value ongoing engagement with employees and union representatives .",
+    "hyp": "according to the <unk> of the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> british <unk> british <unk> <unk> , the company , immediately immediately , , because we we to to with the and of unions and unions unions unions ."
+  },
+  {
+    "src": "两个 月 前 ， 我们 在 <unk> <unk>   ( <unk> )   与 员工 和 英国 <unk> 代表 举行 了 例会 ， 公开 讨论 了 一些 问题 。",
+    "ref": "we had a regular meeting with employees and <unk> representatives at <unk> two months ago at which a number of issues were discussed openly .",
+    "hyp": "two months two months ago , we met with the <unk> <unk> <unk> with the and and the british and the british public representatives ."
+  },
+  {
+    "src": "我们 与 员工 进行 了 讨论 ， 然后 ， 像 所有 在 竞争 激烈 和 经济 不明朗 的 环境 中 运营 的 其他 公司 一样 ， 我们 对 我们 应用 于 企业 和 工厂 的 持续 运营 模式 进行 了 审查 ， 以便 保持 竞争力 。",
+    "ref": "we discussed with employees then that like all companies operating in an extremely competitive and uncertain economic climate , we review our operations on an ongoing basis - and that applies across our all our businesses and sites - in order to remain competitive .",
+    "hyp": "we we with with with workers , then , as companies like other companies operating in the and and and and , and economic , , , we , we we we we to operate with the firms and and ."
+  },
+  {
+    "src": "她 补充 道 ： “ 近年来 ， 我们 在 <unk> <unk>   ( <unk> )   工厂 的 投资 超过   500   <unk> ， 特别 是 在 生产线 和 运营 改进 方面 。",
+    "ref": "she added : <unk> recent years , we have invested over <unk> in our <unk> site , notably on production lines and operational improvements .",
+    "hyp": "she has : : , recent years , we have invested more than than <unk> <unk> <unk> <unk> factories in factories , , , especially in production production and operational operational ."
+  },
+  {
+    "src": "我们 充分认识 到 <unk> <unk>   ( <unk> )   作为 生产 基地 的 历史 地位 ， 如 我们 在 <unk> 的 运营 业务 有 任何 变化 ， 员工 和 工会 代表 将会 第一个 知道 。 ”",
+    "ref": "we fully <unk> the heritage of <unk> as a manufacturing site and should there be any changes to our operations at the site , employees and their union representatives will be the first to know . \"",
+    "hyp": "we know that the status of <unk> <unk> as a <unk> of of of , , , , we we business operating in our business , , and , and the know that know know know know know know first know . know . first ."
+  },
+  {
+    "src": "<unk> 西藏 <unk> 5 月 11 <unk> ( 记者 <unk> ) <unk> <unk> 副局长 <unk> <unk> 10 日 在 <unk> <unk> 大本营 表示 ， 今后 <unk> <unk> 的 生活 垃圾 清理 将 从 过去 的 公益 行动 走向 由 中国政府 主导 、 国际 各界 参与 的 常态 化 行为 。",
+    "ref": "china news service tibet , may 11 wire <unk> <unk> ) <unk> <unk> , deputy director of the tibet autonomous region sports bureau said at the <unk> north base camp on the 10 th that the cleaning up of domestic waste on the northern slope of mount <unk> will move from a public interest action in the past toward a normalized action led by the chinese government and in which the international community will participate .",
+    "hyp": "the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> the <unk> the the the the the from the the from the to the the to the the the the"
+  },
+  {
+    "src": "5 月 10 日 ， 环保 志愿者 们 将 分类 垃圾 <unk> 卡车 。",
+    "ref": "on may 10 , environmental protection volunteers loaded rubbish that have been sorted onto trucks .",
+    "hyp": "on october 10 , environmental environmental will <unk> <unk> <unk> <unk> ."
+  },
+  {
+    "src": "<unk> 记者 <unk> <unk> 十几年来 ， 随着 <unk> <unk> <unk> 和 旅游者 急剧 增加 ， <unk> 所在地 的 环保 问题 日益 凸显 。",
+    "ref": "china news service <unk> <unk> : in the last 10 years or so , environmental protection issues at mount <unk> have become increasingly prominent as the number of mount <unk> <unk> and tourists increased significantly .",
+    "hyp": "as <unk> <unk> <unk> <unk> <unk> , <unk> , , <unk> <unk> and <unk> and <unk> and and , and , environmental issues ."
+  },
+  {
+    "src": "1997 年春 ， <unk> <unk> 在 <unk> <unk> 发起 第一次 清扫 活动 ， 清理 了 一批 上 世纪 六七十年代 遗留 的 <unk> 等 生活 垃圾 。 该 视频 还 在 当年 的 东京 世界 气候 大会 上 专门 播放 ， 引起 世界 关注 。",
+    "ref": "in the spring of 1997 , the tibet autonomous region <unk> association initiated the first <unk> on the northern slope of mount <unk> , cleaning up oxygen tanks and other domestic waste left over from the 1960 s and 1970 s . this video was also <unk> broadcast at the conference of the parties to the united nations framework convention on climate change in kyoto that year , drawing world attention .",
+    "hyp": "in 1997 , , the first first in the first first <unk> in the <unk> , , the <unk> , the the <unk> the the the the the the <unk> in the <unk> , in the world , the world attention in the world world ."
+  },
+  {
+    "src": "据 <unk> <unk> 介绍 ， 1997 年 之后 ， 公益 团队 陆续 对 <unk> <unk> 进行 过 清扫 ， 但 参与者 大多 为 <unk> 人士 。",
+    "ref": "according to <unk> <unk> , after 1997 , public interest groups arrived <unk> to help clean up the northern slope of mount <unk> , but most of the participants were <unk> .",
+    "hyp": "according to <unk> <unk> , 1997 , team team team <unk> <unk> <unk> <unk> , <unk> , , but participants participants were <unk> ."
+  },
+  {
+    "src": "巴黎 <unk> 三年 前 就 警告 过 巴塞罗那 要 <unk> <unk> ？",
+    "ref": "did <unk> warn barcelona about move for <unk> three years ago ?",
+    "hyp": "the years ago , three years ago warned that the land had been <unk> <unk> <unk> ?"
+  },
+  {
+    "src": "<unk> 可能 会 后悔 对 <unk> · 维拉 蒂 抛出 橄榄枝",
+    "ref": "la <unk> side may rue their interest in marco <unk>",
+    "hyp": "the could could not to <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+  },
+  {
+    "src": "在 提出   <unk>   亿英镑 报价 试图 让 其 行使 豁免 条款 之后 ， 巴黎 <unk> 不会 放弃 <unk> <unk> ， 但 他们 在 三年 前 是否 警告 过 巴塞罗那 要 向 这位 世界 记录 突袭 者 发起 进攻 ？",
+    "ref": "paris <unk> will not let up in their pursuit of <unk> after <unk> a <unk> offer to trigger his release clause , but did they warn barcelona of the <unk> raid three years ago ?",
+    "hyp": "in a attempt to to the to <unk> , , to the his to his , , , , not not the <unk> , but they three years years ago that the had warned why the had been the the the the the the world ?"
+  },
+  {
+    "src": "这个 耸人听闻 的 方法 已经 打开 了 夏季 <unk> 窗口 ， <unk> 俱乐部 准备 以 超过 上 一次 <unk> 记录 两倍 的 价格 打破 世界 <unk> 纪录 。 保罗 · 博格 巴 <unk> 返回 <unk> ， 金额 高 达   <unk>   <unk> 。",
+    "ref": "the sensational approach has <unk> up the summer transfer window , with the <unk> 1 club ready to break the world transfer record by more than double the previous mark , which saw paul <unk> return to manchester united last season for <unk> .",
+    "hyp": "this approach approach has opened hundreds of <unk> , , , the club club club to the to the the the the the the the the world the the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> , <unk> <unk> <unk> <unk> ."
+  },
+  {
+    "src": "一旦 <unk> 完成 ， <unk> 将 跃升 成为 世界 上 <unk> 最高 的 球员 ， 同时 也 是 世界 上 薪水 最高 的 职业 运动员 — — 巴黎 <unk> 提供 每周 超过   50   <unk> 的 税后 薪资 。",
+    "ref": "once completed , the move will see <unk> become the world's most expensive player and also the <unk> professional <unk> in the world , with <unk> offering wages of over £500 ,000 <unk> <unk> after tax .",
+    "hyp": "once the , , , , will will the the the the the world ’s highest player , while the the the world ’s the world ’s <unk> – – a 50 ,000 ,000 per ."
+  },
+  {
+    "src": "巴塞罗那 对于 <unk> 的 进攻 方式 以及 <unk> 出 出路 感到 愤怒 ， 了解 加泰罗尼亚 队 董事会 的 <unk> 坚持 说 ， 2013   年 他 从 桑托斯 抵达 后 ， 俱乐部 一直 竭尽全力 <unk> 他 。",
+    "ref": "barcelona are known to be furious with the manner of the approach and the way that <unk> has forced his way out , despite a source close to the catalans ' board insisting that the club have always done their best to look after him since his arrival from santos in 2013 .",
+    "hyp": "the city ’s the of the <unk> of the <unk> and <unk> , and the the , the the , the the ’s of the <unk> , , , the 2013 , after 2013 , the the had had to to his . . ."
+  },
+  {
+    "src": "但是 巴黎 <unk> 主席 三年 前 曾 对 足球 世界 发出 过 这样 的 预测 吗 ？",
+    "ref": "but was the football world warned of this prospect three years ago by the <unk> president ?",
+    "hyp": "but was the the that the the of the the world summit for three years ago ago ?"
+  },
+  {
+    "src": "当 <unk> 在   2014   年 表示 有 兴趣 签约 <unk> · <unk> ， 纳赛尔 · <unk> <unk> 对 任何 一家 想 <unk> 巴黎 <unk> 最佳 球员 的 俱乐部 发出 过 严厉 警告 。",
+    "ref": "when manchester city expressed an interest in signing <unk> <unk> in 2014 , nasser <unk> had a stern warning for any club looking to sign one of <unk> best players .",
+    "hyp": "when <unk> , in in 2014 in 2014 2014 , interest in 2014 , <unk> <unk> , the the club of the the the the the best best the best the best best . ."
+  },
+  {
+    "src": "“ 我 并 不 担心 ， 因为 他们 知道 如果 他们 接触 我们 的 任何 一位 球员 ， 我们 必将 与 他们 针锋相对 ， 我们 也 会 联系 他们 的 球员 ， ”   <unk> <unk> 。",
+    "ref": "\"i am not worried because they know that if they touch one of our players , then we will be in opposition to them , <unk> contact their players , \" <unk> said .",
+    "hyp": "“i don ’t worry worry , because they know that they they to to , , we we we , we , , we we , , , , , <unk> ."
+  },
+  {
+    "src": "“ 我们 尊重 所有 俱乐部 。",
+    "ref": "<unk> respect all clubs .",
+    "hyp": "we respect all all club club club club ."
+  },
+  {
+    "src": "但 如果 他们 试图 签约 我们 的 球员 ， 那 他们 也 要 <unk> 。 ”",
+    "ref": "but if they try to sign one of our players , <unk> face consequences . \"",
+    "hyp": "but if they try to try to to our , , they , they ."
+  },
+  {
+    "src": "今年夏天 早些时候 ， 这家 西班牙 俱乐部 似乎 越线 了 ， 巴塞罗那 向 巴黎 <unk> <unk> 球员 <unk> · 维拉 蒂 抛出 了 橄榄枝 。",
+    "ref": "barcelona appear to have crossed this line , with the spanish club expressing an interesting in <unk> <unk> marco <unk> earlier this summer .",
+    "hyp": "earlier this summer , the spanish club seemed to to the , , the the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+  },
+  {
+    "src": "巴黎 <unk> 明确 表示 ， 他们 无论如何 都 不会 允许 这位 意大利 <unk> 离开 ， 而 巴塞罗那 很 可能 会 因为 失去 <unk> 天才 <unk> 而 倍受 影响 。",
+    "ref": "<unk> made it clear that they would not allow the italy international to leave under any circumstances , and barcelona could well be feeling the repercussions of that interest by losing one of their prize assets in <unk> .",
+    "hyp": "the paris paris clear clear clear that they would would not allow italy to italy italy italy , , , , , , could be lose the lose by the <unk> ."
+  },
+  {
+    "src": "<unk> 记者 <unk> 报道 ： 由 国家电网 公司 与 <unk> 联合 主办 的 新能源 发展 与 技术 国际 研讨会 日前 在 德国 法兰克福 举行 。",
+    "ref": "by staff reporter wang <unk> : the international conference on renewable energy development and technology jointly organized by state grid corporation of china <unk> ) and the international <unk> commission was held in frankfurt , germany recently .",
+    "hyp": "the <unk> <unk> reports reports : the a new development with with the national company with the joint joint with with the with the with the ."
+  },
+  {
+    "src": "当前 ， 加快 新能源 发展 、 推动 能源 清洁 低碳 转型 ， 已 成为 全球 趋势 。",
+    "ref": "at present , accelerating the development of renewable energy , and advancing transformation toward clean and low-carbon energy have become a global trend .",
+    "hyp": "today , accelerating the low-carbon development , low-carbon low-carbon low-carbon low-carbon low-carbon energy , , become a global global trend . global trends ."
+  },
+  {
+    "src": "而 新能源 的 大规模 开发利用 ， 还有 系统 安全性 问题 、 远距离 输送 问题 、 技术 经济性 问题 等 许多 难题 和 挑战 需要 面对 和 解决 。",
+    "ref": "however , large-scale development and use of renewable energy continued to be <unk> by system security , long-distance delivery , technology economic and other issues and challenges that need to be confronted and resolved .",
+    "hyp": "and the new of large-scale new , , the problems challenges challenges problems , problems problems , problems problems , problems , problems problems problems problems problems addressed addressed addressed addressed addressed addressed addressed addressed ."
+  },
+  {
+    "src": "国家电网 公司 董事长 <unk> 透露 ， 国家电网 公司 正在 规划 扩大 同步 电网 规模 ， 加强 现有 区域 电网 互联 ， 到 2020 年 将 <unk> 输电 能力 提高 到 3 <unk> 左右 。",
+    "ref": "<unk> chairman <unk> <unk> revealed that the company was in the process of planning to expand the size of the <unk> power grid so as to strengthen the existing regional power grid interconnection . by 2020 , <unk> power transmission capacity will increase to about 300 million <unk> .",
+    "hyp": "according to the national department of the national grid , national companies grid that that grid companies are expanding grid grid grid grid grid grid existing grid existing grid grid to power by 2020 to by 2020 by 2020 ."
+  },
+  {
+    "src": "<unk> 记者 8 月 上旬 <unk> ， 今年 上半年 ， 据 了解 ， 全国 “ <unk> ” 风电 集中 地区 ， <unk> 比较 普遍 。",
+    "ref": "our staff reporter learned at the beginning of august that in the first half of the year , it was understood that operations of certain wind turbines being suspended in wind farms was a fairly common phenomenon in the “three northern ” wind power regions .",
+    "hyp": "according to august , august august , this year , the first half of this year , the country ’s <unk> country ’s <unk> power , <unk> , , <unk> , , widely widely widely . ."
+  },
+  {
+    "src": "<unk> 风电 、 光伏 等 新能源 占 <unk> 的 70% ， 沿海 发展 新能源 ， 当地 生产 当地 消费 ， 在 <unk> 显示 了 巨大 的 优势 和 潜力 。",
+    "ref": "<unk> ’s renewable energy such as wind power and <unk> , accounts for 70% of <unk> ’s total . renewable energy developed along the coast is produced and consumed locally , and has displayed enormous advantages and potential in <unk> .",
+    "hyp": "as a of of , solar panels , panels , solar panels , 70% of the , , , coastal development , , local local consumption , local local consumption consumption , and , and and . and potential . potential potential potential potential . potential potential ."
+  },
+  {
+    "src": "1 月 3 日 消息 ： 记者 <unk> 从 <unk> <unk> 办 <unk> ， 2008 年 的 <unk> 市 将 于 近日 开始 <unk> 。",
+    "ref": "january 3 news : reporters learned from the guangzhou <unk> market office yesterday that the spring festival <unk> market will begin receiving bids for the 2008 spring festival <unk> market soon .",
+    "hyp": "on january 1 , : journalist journalist <unk> from <unk> <unk> <unk> <unk> <unk> <unk> , 2008 , 2008 2008 in 2008 in 2008 ."
+  },
+  {
+    "src": "<unk> 于 上 月 29 、 30 日 分别 进行 了 <unk> 和 <unk> 的 <unk> 。",
+    "ref": "<unk> district held <unk> for the <unk> and <unk> <unk> on the 29 th and 30 th last month , respectively .",
+    "hyp": "<unk> , the evening on the evening on the evening , 30 , and 30 ."
+  },
+  {
+    "src": "<unk> <unk> 正在 组织 和 收集 <unk> 历史性 的 <unk> 市 的 <unk> ( 拍摄 年代 都 距今 <unk> 之 久 ) ， 定于 2008 年 1 月 8 日 在 <unk> 文化 艺术 中心 进行 公开 的 展览 ， 在 1 月底 <unk> 开始 进行 搭建 时 ， 这批 <unk> 将 <unk> <unk> <unk> 小 广场 进行 展览 。",
+    "ref": "guangzhou <unk> archives bureau is organizing and collecting hundreds of historic old photos of spring festival <unk> markets <unk> some 50 to 60 years ago ) , and will publicly exhibit them at the <unk> culture artistic center on january 8 , 2008 . when the <unk> markets are being constructed at the end of january , the <unk> of these old photos will be moved to <unk> department store at beijing road .",
+    "hyp": "<unk> <unk> <unk> <unk> <unk> and <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ) , <unk> ) , the the , the the open in the open in the in the , the , the the the the the the the the the"
+  },
+  {
+    "src": "另外 ， <unk> <unk> 还 将 举办 一期 <unk> 论坛 ， 邀请 <unk> 的 老 领导 、 社会 <unk> 专家 、 <unk> 、 <unk> 的 <unk> 等 一起 <unk> <unk> <unk> <unk> 的 历史 及 未来 的 发展 。",
+    "ref": "elsewhere , the cultural bureau of <unk> district will also hold a <unk> market forum , and will invite old guangzhou leaders , <unk> experts , celebrities , old residents of beijing road and others to come together to talk about the history and future development of beijing road and west lake road <unk> markets .",
+    "hyp": "moreover , the <unk> will also send a <unk> <unk> <unk> , , <unk> <unk> development , <unk> , <unk> <unk> , <unk> <unk> , <unk> <unk> , <unk> <unk> , <unk> <unk> , and <unk> <unk> ."
+  },
+  {
+    "src": "届时 ， <unk> 论坛 将 联系 <unk> 进行 网上 直播 ， 同步 与 市民 进行 互动 。",
+    "ref": "the <unk> market forum will contact internet media to carry out online broadcast , and will conduct live interaction with residents .",
+    "hyp": "at then , the forum will link the to of online online , , with closely with citizens citizens citizens citizens citizens citizens citizens citizens citizens citizens citizens with citizens citizens ."
+  },
+  {
+    "src": "此外 ， 还 <unk> 网上 <unk> ， 利用 <unk> 信息网络 ， 为 进入 <unk> <unk> 和 <unk> <unk> <unk> 购物 的 市民 发送 有关 <unk> 的 介绍 短信 ， 并 可以 利用 手机 上网 来 <unk> “ 网上 <unk> ” 。",
+    "ref": "in addition , online <unk> markets will be made accessible . by using the information networks of housing estates , brief <unk> and messages about the <unk> markets will be sent to residents who intend to visit and shop at the beijing road business district and west lake road <unk> market . residents may <unk> the <unk> <unk> markets ” on their mobile phones .",
+    "hyp": "moreover , there is also <unk> online online web , the web of the web of the web web , a <unk> of <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> , and can be used to mobile mobile mobile <unk> <unk> ."
+  },
+  {
+    "src": "2015 年 <unk> <unk> 器官 当年 ， 中国 公民 逝世 后 捐献 器官 <unk> 例 ， 完成 <unk> 例 <unk> 手术 ， 刷新 了 <unk> 。",
+    "ref": "in 2015 , the year when harvesting the organs of death row inmates was forbidden , there were 2 <unk> cases of organ donations from chinese citizens upon death , and 10 <unk> organ transplant <unk> performed , setting a new record .",
+    "hyp": "when the 2015 died in 2015 2015 , , chinese citizens died in the death death in the , , , <unk> <unk> , <unk> , <unk> , <unk> , <unk> <unk> . ."
+  },
+  {
+    "src": "以往 《 <unk> <unk> 》 ， 基本 都 是 以 <unk> 的 形式 呈现 在 <unk> 舞台 上 的 ， 而 被 改编 成 <unk> 演出 ， 这 还是 第一次 。",
+    "ref": "in the past , the “four dreams of <unk> ” would be performed on stage in the <unk> style . the performance of this piece after it was adapted into a play , is a first .",
+    "hyp": "basic <unk> was , in the , <unk> , in the <unk> in the <unk> , <unk> , <unk> , <unk> , <unk> , <unk> ."
+  },
+  {
+    "src": "决赛 面对 <unk> ， <unk> 上来 就 连续 <unk> <unk> ， 取得 4 - 1 的 领先 。",
+    "ref": "in the <unk> against marco fu , <unk> scored three consecutive shots and got a 4 -1 lead .",
+    "hyp": "the second faces <unk> <unk> , <unk> , <unk> <unk> <unk> <unk> <unk> , a <unk> ."
+  },
+  {
+    "src": "“ 四川 造 ” 新能源 汽车 <unk> 上行 <unk> 力度 减弱 、 充电 设施 普及率 不高 、 三元 <unk> 暂停 在 新能源 <unk> 上 使用 ， 面对 国内 新能源 汽车 市场 当前 的 上行 压力",
+    "ref": "“made in sichuan ” renewable energy vehicles rose against the tide . weakening fiscal subsidies , inadequate charging facilities , and <unk> <unk> batteries suspended from use in renewable energy <unk> vehicles ; in the face of prevailing upward pressures in the domestic renewable energy automobile market",
+    "hyp": "the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> , <unk> <unk> , <unk> <unk> , <unk> <unk> , , new <unk> , , the new in the new market ."
+  },
+  {
+    "src": "11 月 3 日 — 6 日 ， 在 <unk> 中国 西部 国际 博览会 （ 以下 简称 “ <unk> ” ） 第一阶段 展览 中 ， 成都 、 <unk> 、 <unk> 等 6 个 <unk> 纷纷 展示 在 先进 制造业 方面 的 发展 成果 ， 其中 新能源 汽车 <unk> <unk> ， <unk> <unk> ， 引起 业界 的 广泛 关注 。",
+    "ref": "in the phase i <unk> of the 16 th western china international fair <unk> referred to as <unk> ” ) , which was held between november 3 and 6 , six cities and <unk> including <unk> , <unk> and <unk> <unk> , exhibited their development achievements in the advanced manufacturing sector . renewable energy vehicles <unk> in particular , with the launch of various new vehicles , attracting widespread attention in the industry .",
+    "hyp": "on march 3 3 , in the first time of the <unk> of china ’s capital international capital <unk> ) , <unk> ) , <unk> , <unk> , <unk> , <unk> , <unk> , <unk> , , <unk> development of development in advanced development , , , <unk> , ,"
+  },
+  {
+    "src": "当前 ， 随着 新能源 汽车 <unk> 力度 减弱 、 充电 设施 普及率 不高 、 三元 <unk> 暂停 在 新能源 <unk> 上 使用 ， 国内 新能源 汽车 市场 出现 暂时 的 上行 压力 。",
+    "ref": "at present , the domestic renewable energy automobile market is temporarily under pressure because of weakening fiscal subsidies , inadequate charging facilities , and <unk> <unk> batteries being suspended from use in renewable energy <unk> vehicles .",
+    "hyp": "today , as the new of new cars <unk> <unk> , <unk> <unk> , <unk> <unk> , <unk> <unk> , <unk> , , , new new in the new energy market ."
+  },
+  {
+    "src": "然而 ， “ 四川 造 ” 新能源 汽车 却 <unk> 上行 ， 大举 进军 <unk> 和 <unk> 细分 市场 ， 底气 何在 ？",
+    "ref": "however , “made in sichuan ” renewable energy vehicles rose against the tide , and have made major <unk> into the <unk> and commercial vehicle <unk> . why so confident ?",
+    "hyp": "but , as the <unk> <unk> ” <unk> <unk> <unk> <unk> , <unk> , <unk> , and <unk> and <unk> market <unk> and <unk> market"
+  },
+  {
+    "src": "<unk> <unk> 现状 ： 集中力量 培育 “ <unk> ” 近期 ， “ 四川 造 ” 新能源 汽车产业 新闻 不断 。",
+    "ref": "staff reporter zhao <unk> . current situation : focus on developing “top students ” “made in sichuan ” renewable energy vehicles have dominated the news lately .",
+    "hyp": "the <unk> of the : the : <unk> : the <unk> <unk> <unk> <unk> recent <unk> , ” <unk> <unk> <unk> news ”"
+  },
+  {
+    "src": "在 完成 收购 东风 <unk> 汽车 <unk> 后 不到 8 个 月 时间 ， 10 月 26 日 ， <unk> <unk> （ 以下 简称 “ <unk> 集团 ” ） 旗下 的 全新 <unk> 品牌 “ 远程 ” 在 成都 首发 ， 旗下 <unk> <unk> 智能 车 联网 平台 的 纯 电动 <unk> 远程 <unk> 首次 亮相 <unk> 。",
+    "ref": "less than eight months after acquiring <unk> <unk> automobile <unk> . , <unk> . , <unk> holding group ’s <unk> referred to <unk> group ” ) brand new commercial vehicle brand <unk> <unk> ” made its debut on october 26 . yuan <unk> <unk> , <unk> <unk> first pure electric light truck equipped with a smart auto networking platform <unk> at <unk> .",
+    "hyp": "in less than eight months of the <unk> , <unk> , <unk> , <unk> , <unk> , <unk> <unk> , <unk> <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+  },
+  {
+    "src": "值得一提的是 ， 在 今年 的 企业 工资 指导 线 涨幅 多为 持平 或 下降 的 情况 下 ， 北京 和 <unk> 的 <unk> 有所提高 。",
+    "ref": "it is worth mentioning that under circumstances where the rate of growth of the enterprise wage guidelines this year was mainly flat or down , the minimum threshold in beijing and guizhou was raised .",
+    "hyp": "it is worth that that the the the of the or <unk> this year year this year ’s this year ’s <unk> workers ."
+  },
+  {
+    "src": "新华社 伦敦 1 月 9 <unk> （ 记者 <unk> ） 英国 体育 理事会 9 日 公布 了 下个月 参加 韩国 <unk> 冬奥会 的 目标 ： 赢得 至少 5 块 <unk> ， 这是 英国 代表团 参加 冬奥会 历史 上 “ 最 宏伟 的 ” 目标 。",
+    "ref": "xinhua news agency london january 9 wire <unk> wang <unk> ) on the 9 th , uk sport announced great britain ’s target for next month ’s winter olympics to be held in <unk> , south korea : win at least five medals . this would team <unk> ’s “best ever ” target in the history of the winter olympics .",
+    "hyp": "in september , the british of the british of september september september , september , , the ’s meeting of south korea ’s ’s goal of south korea ’s goal : : at least at least for the , , the the the the the the the the the the"
+  },
+  {
+    "src": "英国 体育 理事会 负责 各个 奥运会 项目 资金 的 划拨 ， 当然 也 负责 给 各个 项目 下达 <unk> 目标 。",
+    "ref": "uk sport is responsible for allocating funds to the various olympic events , and for setting the medal targets for each event .",
+    "hyp": "the british of the the the the the the the the the program , , , , , , , to the each project . ."
+  },
+  {
+    "src": "据 推算 ， 英国 运动员 有 希望 冲击 <unk> 的 项目 来自 <unk> 滑雪 、 <unk> 、 <unk> <unk> 和 <unk> <unk> 等 。",
+    "ref": "it is predicted that events uk athletes have hopes of winning a medal are <unk> , <unk> , <unk> and short track speed <unk> .",
+    "hyp": "in the , , british british would want to to to projects to from <unk> , <unk> , <unk> , <unk> <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+  },
+  {
+    "src": "在 过去 一个 冬奥会 周期 内 ， 英国 体育 理事会 为 冬奥会 项目 划拨 了 总共 <unk> <unk> （ 约合 2.8 亿元 人民币 ） 的 训练 经费 ， 比 索契 冬奥会 周期 翻 了 一倍 。",
+    "ref": "in the last winter olympic cycle , uk sport has allocated a total of <unk> million <unk> <unk> million ) to fund training for the winter olympic game events , doubled that of the funding for the sochi winter olympic cycle .",
+    "hyp": "in the past cycle cycle , the , the the the the the the in the the , the the , , , , than than the in the in the ."
+  },
+  {
+    "src": "这些 钱 大部分 来自 国家 彩票 ， 剩下 的 来自 国家 财政 。",
+    "ref": "most of the funding was sourced from the national lottery , with the balance funded by the government .",
+    "hyp": "these money most money from from national countries , , from from national fiscal national ."
+  },
+  {
+    "src": "英国 <unk> 的 希望 主要 寄托 在 两人 身上 ， 一个 是 去年 世界 <unk> <unk> 锦标赛 三 金 得主 <unk> · 克里斯蒂 ， 另外 一个 是 上届 的 女子 <unk> <unk> 冠军 <unk> · 亚 诺德 。",
+    "ref": "the uk has pinned its hopes for the gold medal on two people - short track speed <unk> <unk> christie , a triple gold <unk> at last year ’s world <unk> , and <unk> <unk> , the previous <unk> olympic champion .",
+    "hyp": "the hopes of the was largely on on on two , , one of the <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> , <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> ."
+  },
+  {
+    "src": "2014 年 索契 冬奥会 ， 英国 代表团 取得 了 1 金 1 银 2 铜 的 战绩 ， 这 是 自 1924 年 首届 冬奥会 之后 ， 他们 取得 的 最好 战绩 。",
+    "ref": "at the sochi winter olympics in 2014 , team <unk> won one gold , one silver and two <unk> , the best tally since the inaugural winter olympics in 1924 .",
+    "hyp": "in 2014 2014 in 2014 in the , the united kingdom launched the the of 1 1% of of , , , , , the first the first the first in the first"
+  }
+]
