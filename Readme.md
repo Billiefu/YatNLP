@@ -1,6 +1,6 @@
 # Natural Language Processing [SYSU CSE 2025-1]
 
-> Copyright © 2025 Fu Tszkok.
+> Copyright © 2025 Fu Tszkok
 
 ## Repository Description
 
@@ -29,6 +29,7 @@ The directory structure of this project is organized as follows, designed to mai
 ```text
 .
 │  config.yml        # Global configuration (hyperparameters, paths, model selection)
+│  .gitattributes    # Git Large File Storage (LFS) tracking rules
 │  pipline.py        # Main entry point (integrates data loading, training, evaluation)
 │  train.py          # Training engine (training loops, optimizer, scheduler strategies)
 │  evaluate.py       # Evaluation engine (Greedy/Beam Search decoding and metric calculation)
@@ -40,10 +41,10 @@ The directory structure of this project is organized as follows, designed to mai
 │  Readme.md         # Project documentation
 │  LICENSE           # Full text of the GNU Affero General Public License v3.0
 │  ADDITIONAL_TERMS.md # Supplementary legal terms regarding academic and commercial usage
-│    
+│  
 ├─checkpoints        # Directory for saving model checkpoints
 │  └─...             # (e.g., best_model.pt)
-│    
+│  
 ├─data               # Directory for datasets and embeddings
 │      glove.6B.300d.txt                # English pre-trained embeddings
 │      sgns.baidu.bigram-char.300d.txt  # Chinese pre-trained embeddings
@@ -60,7 +61,7 @@ The directory structure of this project is organized as follows, designed to mai
 │      │  summary.txt       # Experiment summary
 │      │  translations.json # Final translation results
 │      └─attention_heatmap  # Attention mechanism visualization heatmaps
-│        
+│  
 ├─network            # Neural network model definitions
 │      lstm.py          # RNN/LSTM model implementation (w/ Attention)
 │      transformer.py   # Transformer model implementation (w/ Sparse/GQA)
